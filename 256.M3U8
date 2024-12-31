@@ -30,51 +30,30 @@ http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8?ManoTV
 #EXTINF:-1 group-title="Canais | ABERTO" tvg-logo="https://i.imgur.com/xL9QvHp.png",TV Cultura 2
 https://tv02.zas.media:1936/futurotv21/futurotv21/chunklist_w309642670.m3u8?ManoTV
 
-#EXTINF:-1 group-title="Canais | ESPORTES "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Canal-combate-logo.png/1197px-Canal-combate-logo.png",Combate
+#EXTINF:-1 group-title="Canais | ESPORTES "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Canal-combate-logo.png/1197px-Canal-combate-logo.png", Combate
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/1
 
-#EXTINF:-1 group-title="Canais | ESPORTES" tvg-logo="https://imgur.com/AvV9rW9.png",UFC Fightpass HD [Alter]
-http://t2tp.xyz:80/343963665/370954400/253998
-
-#EXTINF:-1 group-title="Canais | ESPORTES" tvg-logo="https://imgur.com/AvV9rW9.png",UFC Fightpass FHD
-http://t2tp.xyz:80/343963665/370954400/256226
-
-#EXTINF:-1 group-title="Canais | PREMIERE" tvg-logo="https://imgur.com/Sa86nNV.png",Premiere 2 HD [Alter]
-http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/150
-#EXTINF:-1 group-title="Canais | PREMIERE" tvg-logo="https://imgur.com/n5KKEiL.png",Premiere 4 HD [Alter]
-http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/154
-#EXTINF:-1 group-title="Canais | PREMIERE" tvg-logo="https://imgur.com/qVVCNKG.png",Premiere 5 HD [Alter]
-http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/156
-#EXTINF:-1 group-title="Canais | PREMIERE" tvg-logo="https://imgur.com/4CAJWni.png",Premiere 6 HD [Alter]
-http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/158
-#EXTINF:-1 group-title="Canais | PREMIERE" tvg-logo="https://imgur.com/XqTjkAw.png",Premiere 7 HD [Alter]
-http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/160
-#EXTINF:-1 group-title="ao vivo | FUTEBOL" tvg-logo="https://imgur.com/io8ktJf.png",JOGO 1
-https://bal01.vivartec.com.br:8088/hls/livechannel1.m3u8
-#EXTINF:-1 group-title="ao vivo | FUTEBOL" tvg-logo="https://imgur.com/io8ktJf.png",JOGO 2
-https://bal01.vivartec.com.br:8088/hls/livechannel2.m3u8
-#EXTINF:-1 group-title="Canais | NOTÍCIAS" tvg-logo="https://i.imgur.com/MWGAfvV.png",JP NEWS HD
+#EXTINF:-1 group-title="Canais | NOTÍCIAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Logotipo_da_TV_Jovem_Pan_News.png",Jovem Pan NEWS
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_10.m3u8
-#EXTINF:-1 group-title="Canais | NOTÍCIAS" tvg-logo="https://imgur.com/4dfmnBs.png",CNN BRASIL SD
-https://d25usgadhphvwi.cloudfront.net/hls/stv_plus_640x360/playlist.m3u8
-#EXTINF:-1 group-title="Canais | NOTÍCIAS" tvg-logo="https://imgur.com/4dfmnBs.png",CNN BRASIL HD
+
+#EXTINF:-1 group-title="Canais | NOTÍCIAS" tvg-logo="https://imgur.com/4dfmnBs.png",CNN BRASIL
 https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8?ManoTV
+
 #EXTINF:-1 group-title="Canais | NOTÍCIAS" tvg-logo="https://imgur.com/jCZzNjF.png",Band News SD
 https://cdn-1.nxplay.com.br/BAND_NEWS_TK/tracks-v1a1/mono.m3u8?ManoTV
-#EXTINF:-1 group-title="Canais | NOTÍCIAS" tvg-logo="https://i.imgur.com/MGNoiZW.png",011 News
+
+#EXTINF:-1 group-title="Canais | NOTÍCIAS" tvg-logo="https://011news.com.br/wp-content/uploads/2022/11/logo011light.png",011 News
 https://011news.akamaized.net/011news/011news/playlist.m3u8
-#EXTINF:-1 group-title="Canais | NOTÍCIAS" tvg-logo="https://live.staticflickr.com/2053/2308291877_4e9d0bd251_c.jpg",AVANÇA BRASIL
-https://video01.soultv.com.br/avancabrasil/avancabrasil/playlist.m3u8
-#EXTINF:-1 group-title="Canais | NOTÍCIAS" tvg-logo="https://i.imgur.com/B1KhZs2.png",4 POR 4
-https://video01.soultv.com.br/programa4por4/programa4por4/playlist.m3u8
-#EXTINF:-1 group-title="Canais | NOTÍCIAS" tvg-logo="https://i.imgur.com/yVux2yk.png",Resumo da Ópera
-https://011news.akamaized.net/011news/011news/chunklist_720p.m3u8
-#EXTINF:-1 group-title="Canais | NOTÍCIAS" tvg-logo="https://images.pluto.tv/channels/6102e04e9ab1db0007a980a1/colorLogoPNG.png",Record News HD
+
+#EXTINF:-1 group-title="Canais | NOTÍCIAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Record_News_logo_2023.svg/1920px-Record_News_logo_2023.svg.png",Record News
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5431&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1YN-&did=9794a1b041ad875093e398bc1632460a&app_bundle=com.ammo.runtime&app_store_url=https%3A%2F%2Fwww.runtime.tv%2Fdevices&app_domain=runtime.tv&app_name=runtime&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=runtime&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&consent=1&gdpr=0&custom_12=0&custom_15=pt-br&custom_16=EN&custom_17=en&site_page=https%253A%252F%252Fwww.runtime.tv%252F&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=South%2520America&timestamp=1688604990&id=11709&ip=138.185.238.172&override_expiration=1500&sign=z%2BA66gwNz60ZptKvp8RUzKwjztJdlXb4BFuJDdDAARg%3D
+
 #EXTINF:-1 group-title="Canais | NOTÍCIAS" tvg-logo="https://images.pluto.tv/channels/6102e04e9ab1db0007a980a1/colorLogoPNG.png",Pluto TV Record News
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6102e04e9ab1db0007a980a1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
 #EXTINF:-1 group-title="Canais | NOTÍCIAS" tvg-logo="https://imgur.com/63xr9fk.png",24h News FHD
 http://cdn.connectbr.com.br/24_news/index.m3u8?ManoTV
+
 #EXTINF:-1 group-title="Canais | NOTÍCIAS" tvg-logo="https://imgur.com/4m1j3CL.png",TV VIDEONEWS
 https://video01.logicahost.com.br/tvideonews/tvideonews/chunklist.m3u8
 #EXTINF:-1 group-title="Canais | VARIEDADES" tvg-logo="https://imgur.com/yGT50Kk.png",E! FHD
