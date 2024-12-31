@@ -66,43 +66,48 @@ https://cc-21vbc0vo9kqq3.akamaized.net/playlist.m3u8
 #EXTINF:-1 group-title="Canais | NOVELAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/TVI_Fic%C3%A7%C3%A3o_%282017%29.png",TVi Ficção
 https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8?ManoTV
 
-#EXTINF:-1 group-title="Canais | NOVELAS" tvg-logo="https://images.pluto.tv/channels/5dcde0cc2efd2700090b7ff4/colorLogoPNG.png",Novelas Turcas
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088
-
-#EXTINF:-1 group-title="Canais | NOVELAS" tvg-logo="https://i.imgur.com/GrtNJki.png",Canela Telenovelas
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
-
-#EXTINF:-1 group-title="Canais | NOVELAS" tvg-logo="https://imgur.com/7MCMU3j.png",Novelissima
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
-
 #EXTINF:-1 group-title="Canais | REALITY" tvg-logo="https://images.pluto.tv/channels/61a528267e1b8b0007357920/colorLogoPNG.png",MTV Com o Ex
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61a528267e1b8b0007357920/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Canais | REALITY" tvg-logo="https://imgur.com/oHVMcJ9.png",MTV Are you the One?
+
+#EXTINF:-1 group-title="Canais | REALITY" tvg-logo="https://i.ibb.co/hmdL5Bt/Are-you-the-one.png",MTV Are you the One?
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6108d8cc331900075e98e4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97821633-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d1b9e931-6816-41d0-878e-e83836fbe919&userId=&serverSideAds=true
+
 #EXTINF:-1 group-title="Canais | REALITY" tvg-logo="https://images.pluto.tv/channels/626c2a3502d84a0007cec817/colorLogoPNG.png",MTV Catfish
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/626c2a3502d84a0007cec817/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
 #EXTINF:-1 group-title="Canais | REALITY" tvg-logo="https://imgur.com/qKwrAUT.png",MasterChef
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6077045b6031bd00078de127/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=65aaf550-f9bd-11eb-8aa4-9fbe6c9efd24&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=236636d2-5215-4c91-960b-a0fdf5d55119&userId=&serverSideAds=true
+
 #EXTINF:-1 group-title="Canais | REALITY" tvg-logo="https://imgur.com/2qWdToI.png",SONY ONE SHARK TANK
 https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SharkTank/playlist.m3u8
+
 #EXTINF:-1 group-title="Canais | FILMES E SERIES" tvg-logo="https://imgur.com/mMLZhgP.png",Studio Universal HD [Alter]
 http://t2tp.xyz:80/343963665/370954400/71383
+
 #EXTINF:-1 group-title="Canais | FILMES E SERIES" tvg-logo="https://imgur.com/20h0JkN.png",Disney Channel HD
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/3
+
 #EXTINF:-1 group-title="Canais | FILMES E SERIES" tvg-logo="https://imgur.com/9lqxeLR.png",Dark Matter
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_br_darkmatter_002.m3u8
+
 #EXTINF:-1 group-title="Canais | FILMES" tvg-logo="https://imgur.com/3Wpaz9E.png",Runtime Ação HD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
+
 #EXTINF:-1 group-title="Canais | FILMES" tvg-logo="https://imgur.com/5aavtj1.png",Runtime TV e Filmes HD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
+
 #EXTINF:-1 group-title="Canais | FILMES" tvg-logo="https://imgur.com/TZ7LfjB.png",Runtime Comédia HD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
+
 #EXTINF:-1 group-title="Canais | FILMES" tvg-logo="https://imgur.com/pFtnILf.png",Runtime Família
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5589
+
 #EXTINF:-1 group-title="Canais | FILMES" tvg-logo="https://imgur.com/U6ElKK3.png",Runtime Romance
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
+
 #EXTINF:-1 group-title="Canais | FILMES" tvg-logo="https://imgur.com/bzX7MO8.png",Runtime Cine Espanto
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865
+
 #EXTINF:-1 group-title="Canais | FILMES" tvg-logo="https://imgur.com/KQt9WGA.png",Runtime Crime
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
 #EXTINF:-1 group-title="Canais | FILMES" tvg-logo="https://images.pluto.tv/channels/62c5d32e2c48f9000715b6e9/colorLogoPNG.png",Runtime
