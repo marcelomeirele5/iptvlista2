@@ -33,10 +33,6 @@ https://cc-7pakstinpyajo.akamaized.net/playlist720lp.m3u8
 https://stream.ichibantv.com:3328/hybrid/play.m3u8
 #EXTINF:-1 group-title="Canais | ABERTO" tvg-logo="https://imgur.com/vSKVrvH.png",NEW BRASIL FHD
 https://cc-7pakstinpyajo.akamaized.net/playlist1080p.m3u8
-#EXTINF:-1 group-title="Web TV Site oportunidades.tv" tvg-logo="https://imgur.com/HhSQN5B.png",Oportunidades TV HD
-http://maistop.net:80/live/free/free/2.m3u8
-#EXTINF:-1 group-title="Web TV Site oportunidades.tv" tvg-logo="https://imgur.com/HhSQN5B.png",Oportunidades TV FHD
-http://maistop.net:80/live/free/free/1.m3u8
 #EXTINF:-1 group-title="Canais | ABERTO" tvg-logo="https://imgur.com/IR0UllK.png",TV Ceará HD YT
 https://ythls.armelin.one/channel/UCWiwMQn0k84wn0952b5kcKw.m3u8
 #EXTINF:-1 group-title="Canais | ABERTO" tvg-logo="https://i.imgur.com/qoQEi7z.png",TVE Bahia YouTube
