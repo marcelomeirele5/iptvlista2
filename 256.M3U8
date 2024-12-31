@@ -27,11 +27,8 @@ https://cc-7pakstinpyajo.akamaized.net/playlist1080p.m3u8
 #EXTINF:-1 group-title="Canais | ABERTO" tvg-logo="https://pt.wikipedia.org/wiki/TV_Cultura#/media/Ficheiro:Cultura_logo_2013.svg",TV Cultura 1
 http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8?ManoTV
 
-#EXTINF:-1 group-title="Canais | ABERTO" tvg-logo="https://i.imgur.com/xL9QvHp.png",TV Cultura 2
+#EXTINF:-1 group-title="Canais | ABERTO" tvg-logo="https://static.wikia.nocookie.net/biografia-de-artistas/images/7/75/Cultura_logo_2013.svg.png/revision/latest?cb=20240120030309&path-prefix=pt-br",TV Cultura 2
 https://tv02.zas.media:1936/futurotv21/futurotv21/chunklist_w309642670.m3u8?ManoTV
-
-#EXTINF:-1 group-title="Canais | ESPORTES "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Canal-combate-logo.png/1197px-Canal-combate-logo.png", Combate
-http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/1
 
 #EXTINF:-1 group-title="Canais | NOTÍCIAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Logotipo_da_TV_Jovem_Pan_News.png",Jovem Pan NEWS
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_10.m3u8
