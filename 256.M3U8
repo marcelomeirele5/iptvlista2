@@ -1,18 +1,18 @@
 #EXTM3U
 # 🔰 CANAIS DE TV 🔰
-#EXTINF:-1 group-title="Canais | GLOBO" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png",Globo TV Santos
+#EXTINF:-1 group-title="Canais | ABERTO" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png",Globo TV Santos
 http://15.235.15.230:14513/
 
-#EXTINF:-1 group-title="Canais | GLOBO" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png",Globo TV Curitiba 
+#EXTINF:-1 group-title="Canais | ABERTO" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png",Globo TV Curitiba 
 http://15.235.15.230:14487/
 
-#EXTINF:-1 group-title="Canais | GLOBO" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png",Globo TV Maringa 
+#EXTINF:-1 group-title="Canais | ABERTO" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png",Globo TV Maringa 
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/45
 
-#EXTINF:-1 group-title="Canais | GLOBO" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png",Globo TV Mirante
+#EXTINF:-1 group-title="Canais | ABERTO" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png",Globo TV Mirante
 http://15.235.15.230:14499/MANOTV
 
-#EXTINF:-1 group-title="Canais | GLOBO" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png",Globo TV RBS
+#EXTINF:-1 group-title="Canais | ABERTO" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png",Globo TV RBS
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/49
 
 #EXTINF:-1 group-title="Canais | ABERTO" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png",Record TV BA 
@@ -24,33 +24,21 @@ https://cc-7pakstinpyajo.akamaized.net/playlist720lp.m3u8
 #EXTINF:-1 group-title="Canais | ABERTO" tvg-logo="https://images.samsung.com/is/image/samsung/assets/br/tvs/smart-tv/channel-list/NEW_BRASIL_1-1_CIRCLE_1000x1000.png?$ORIGIN_PNG$",NEW BRASIL 2
 https://cc-7pakstinpyajo.akamaized.net/playlist1080p.m3u8
 
-#EXTINF:-1 group-title="Canais | ABERTO" tvg-logo="https://pt.wikipedia.org/wiki/TV_Cultura#/media/Ficheiro:Cultura_logo_2013.svg",TV Cultura 
+#EXTINF:-1 group-title="Canais | ABERTO" tvg-logo="https://pt.wikipedia.org/wiki/TV_Cultura#/media/Ficheiro:Cultura_logo_2013.svg",TV Cultura 1
 http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8?ManoTV
 
-#EXTINF:-1 group-title="Canais | ABERTO" tvg-logo="https://i.imgur.com/xL9QvHp.png",TV Cultura RN FHD
+#EXTINF:-1 group-title="Canais | ABERTO" tvg-logo="https://i.imgur.com/xL9QvHp.png",TV Cultura 2
 https://tv02.zas.media:1936/futurotv21/futurotv21/chunklist_w309642670.m3u8?ManoTV
-#EXTINF:-1 group-title="Canais | ABERTO" tvg-logo="https://i.imgur.com/xL9QvHp.png",TV Cultura YouTube
-https://ythls.armelin.one/channel/UCjOJvvYe6tyEHY21OD33h8A.m3u8
-#EXTINF:-1 group-title="Canais | ESPORTES" tvg-logo="https://imgur.com/bwqLqyg.png",SporTV FHD [Alter]
-http://cdnexpress.homelinux.net/live/23.m3u8
-#EXTINF:-1 group-title="Canais | ESPORTES" tvg-logo="https://imgur.com/bwqLqyg.png",SporTV 4K
-http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/183
-#EXTINF:-1 group-title="Canais | ESPORTES" tvg-logo="https://i.imgur.com/CkoAvYH.png",ESPN SD-A
-http://t2tp.xyz:80/343963665/370954400/71194
-#EXTINF:-1 group-title="Canais | ESPORTES" tvg-logo="https://i.imgur.com/CkoAvYH.png",ESPN HD-C
-http://t2tp.xyz:80/343963665/370954400/71334
-#EXTINF:-1 group-title="Canais | ESPORTES" tvg-logo="https://i.imgur.com/CkoAvYH.png",ESPN FHD-A
-http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/131
-#EXTINF:-1 group-title="Canais | ESPORTES" tvg-logo="https://i.imgur.com/CkoAvYH.png",ESPN FHD-B
-http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/130
-#EXTINF:-1 group-title="Canais | ESPORTES" tvg-logo="https://i.imgur.com/Zz2VFpL.png",ESPN 5 HD
-http://xciptv.aplicativos.top:80/gabi4834/Bfh92928beb/118751
-#EXTINF:-1 group-title="Canais | ESPORTES" tvg-logo="https://imgur.com/HIiZUQN.png",Combate FHD
+
+#EXTINF:-1 group-title="Canais | ESPORTES "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Canal-combate-logo.png/1197px-Canal-combate-logo.png",Combate
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/1
+
 #EXTINF:-1 group-title="Canais | ESPORTES" tvg-logo="https://imgur.com/AvV9rW9.png",UFC Fightpass HD [Alter]
 http://t2tp.xyz:80/343963665/370954400/253998
+
 #EXTINF:-1 group-title="Canais | ESPORTES" tvg-logo="https://imgur.com/AvV9rW9.png",UFC Fightpass FHD
 http://t2tp.xyz:80/343963665/370954400/256226
+
 #EXTINF:-1 group-title="Canais | PREMIERE" tvg-logo="https://imgur.com/Sa86nNV.png",Premiere 2 HD [Alter]
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/150
 #EXTINF:-1 group-title="Canais | PREMIERE" tvg-logo="https://imgur.com/n5KKEiL.png",Premiere 4 HD [Alter]
