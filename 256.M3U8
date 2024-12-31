@@ -24,10 +24,10 @@ https://cc-7pakstinpyajo.akamaized.net/playlist720lp.m3u8
 #EXTINF:-1 group-title="Canais | ABERTO" tvg-logo="https://images.samsung.com/is/image/samsung/assets/br/tvs/smart-tv/channel-list/NEW_BRASIL_1-1_CIRCLE_1000x1000.png?$ORIGIN_PNG$",NEW BRASIL 2
 https://cc-7pakstinpyajo.akamaized.net/playlist1080p.m3u8
 
-#EXTINF:-1 group-title="Canais | ABERTO" tvg-logo="https://pt.wikipedia.org/wiki/TV_Cultura#/media/Ficheiro:Cultura_logo_2013.svg",TV Cultura 1
+#EXTINF:-1 group-title="Canais | ABERTO" tvg-logo="https://i.ibb.co/YpXtq6j/Cultura-logo-2013-svg.png",TV Cultura 1
 http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8?ManoTV
 
-#EXTINF:-1 group-title="Canais | ABERTO" tvg-logo="https://static.wikia.nocookie.net/biografia-de-artistas/images/7/75/Cultura_logo_2013.svg.png/revision/latest?cb=20240120030309&path-prefix=pt-br",TV Cultura 2
+#EXTINF:-1 group-title="Canais | ABERTO" tvg-logo="https://i.ibb.co/YpXtq6j/Cultura-logo-2013-svg.png",TV Cultura 2
 https://tv02.zas.media:1936/futurotv21/futurotv21/chunklist_w309642670.m3u8?ManoTV
 
 #EXTINF:-1 group-title="Canais | NOTÍCIAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Logotipo_da_TV_Jovem_Pan_News.png",Jovem Pan NEWS
