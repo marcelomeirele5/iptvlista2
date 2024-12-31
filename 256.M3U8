@@ -48,33 +48,36 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5431&avod=1&coppa=0&is_lat
 #EXTINF:-1 group-title="Canais | NOTÍCIAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/Record_News_logo_2022.svg",Pluto TV Record News
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6102e04e9ab1db0007a980a1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 group-title="Canais | NOTÍCIAS" tvg-logo="https://imgur.com/63xr9fk.png",24h News FHD
-http://cdn.connectbr.com.br/24_news/index.m3u8?ManoTV
-
-#EXTINF:-1 group-title="Canais | NOTÍCIAS" tvg-logo="https://imgur.com/4m1j3CL.png",TV VIDEONEWS
+#EXTINF:-1 group-title="Canais | NOTÍCIAS" tvg-logo="https://i.ibb.co/Mk4grXd/305978223-781816156275680-3936987076279353247-n.png",TV VIDEONEWS
 https://video01.logicahost.com.br/tvideonews/tvideonews/chunklist.m3u8
-#EXTINF:-1 group-title="Canais | VARIEDADES" tvg-logo="https://imgur.com/yGT50Kk.png",E! FHD
-http://xciptv.aplicativos.top:80/gabi4834/Bfh92928beb/21313
+
 #EXTINF:-1 group-title="Canais | VARIEDADES" tvg-logo="https://imgur.com/AH3uBDj.png",Food Network HD
 https://cdn-1.nxplay.com.br/FOOD_NETWORK_NX/index.m3u8
+
 #EXTINF:-1 group-title="Canais | VARIEDADES" tvg-logo="https://i.imgur.com/7HTxrEq.png",Trace Sport Stars
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 group-title="Canais | VARIEDADES" tvg-logo="https://images.pluto.tv/channels/6014761dfb91870008ea6463/colorLogoPNG.png",Pluto TV Turbo
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6014761dfb91870008ea6463/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
 #EXTINF:-1 group-title="Canais | VARIEDADES" tvg-logo="https://imgur.com/jlhvLJb.png",Motorvision FHD
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01329-ottera-motorvision-samsungbr/playlist.m3u8
-#EXTINF:-1 group-title="Canais | VARIEDADES" tvg-logo="https://imgur.com/jlhvLJb.png",Motorvision |PT HD
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2182
-#EXTINF:-1 group-title="Canais | NOVELAS" tvg-logo="https://imgur.com/p7tvqin.png",Novelando HD
+
+#EXTINF:-1 group-title="Canais | NOVELAS" tvg-logo="https://i.ibb.co/yXXhZFP/images.jpg",Novelando HD
 https://cc-21vbc0vo9kqq3.akamaized.net/playlist.m3u8
-#EXTINF:-1 group-title="Canais | NOVELAS" tvg-logo="https://i.imgur.com/crseFhh.png",TVi Ficção
+
+#EXTINF:-1 group-title="Canais | NOVELAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/TVI_Fic%C3%A7%C3%A3o_%282017%29.png",TVi Ficção
 https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8?ManoTV
+
 #EXTINF:-1 group-title="Canais | NOVELAS" tvg-logo="https://images.pluto.tv/channels/5dcde0cc2efd2700090b7ff4/colorLogoPNG.png",Novelas Turcas
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088
+
 #EXTINF:-1 group-title="Canais | NOVELAS" tvg-logo="https://i.imgur.com/GrtNJki.png",Canela Telenovelas
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
+
 #EXTINF:-1 group-title="Canais | NOVELAS" tvg-logo="https://imgur.com/7MCMU3j.png",Novelissima
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
+
 #EXTINF:-1 group-title="Canais | REALITY" tvg-logo="https://images.pluto.tv/channels/61a528267e1b8b0007357920/colorLogoPNG.png",MTV Com o Ex
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61a528267e1b8b0007357920/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="Canais | REALITY" tvg-logo="https://imgur.com/oHVMcJ9.png",MTV Are you the One?
