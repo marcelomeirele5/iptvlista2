@@ -1,5 +1,6 @@
 #EXTM3U
-# 🔰 CANAIS DE TV 🔰
+
+# 📺 Abertos
 #EXTINF:-1 group-title="Canais | ABERTO" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png",Globo TV Santos
 http://15.235.15.230:14513/
 
@@ -30,6 +31,13 @@ http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8?ManoTV
 #EXTINF:-1 group-title="Canais | ABERTO" tvg-logo="https://i.ibb.co/YpXtq6j/Cultura-logo-2013-svg.png",TV Cultura 2
 https://tv02.zas.media:1936/futurotv21/futurotv21/chunklist_w309642670.m3u8?ManoTV
 
+#EXTINF:-1 group-title="Canais | ABERTO" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png",RedeTV Paraná
+https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
+
+#EXTINF:-1 group-title="Canais | ABERTO" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png",RedeTV Tocantins
+https://59f1cbe63db89.streamlock.net:1443/redetvro/redetvro/chunklist_w1575676158.m3u8
+
+# 📺 Notícias
 #EXTINF:-1 group-title="Canais | NOTÍCIAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Logotipo_da_TV_Jovem_Pan_News.png",Jovem Pan NEWS
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_10.m3u8
 
@@ -51,6 +59,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6102e04e9ab1db0007a980
 #EXTINF:-1 group-title="Canais | NOTÍCIAS" tvg-logo="https://i.ibb.co/Mk4grXd/305978223-781816156275680-3936987076279353247-n.png",TV VIDEONEWS
 https://video01.logicahost.com.br/tvideonews/tvideonews/chunklist.m3u8
 
+# 📺 Variedades
 #EXTINF:-1 group-title="Canais | VARIEDADES" tvg-logo="https://imgur.com/AH3uBDj.png",Food Network HD
 https://cdn-1.nxplay.com.br/FOOD_NETWORK_NX/index.m3u8
 
@@ -60,12 +69,14 @@ https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Canais | VARIEDADES" tvg-logo="https://images.pluto.tv/channels/6014761dfb91870008ea6463/colorLogoPNG.png",Pluto TV Turbo
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6014761dfb91870008ea6463/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+# 📺 Novelas
 #EXTINF:-1 group-title="Canais | NOVELAS" tvg-logo="https://i.ibb.co/yXXhZFP/images.jpg", Novelando
 https://cc-21vbc0vo9kqq3.akamaized.net/playlist.m3u8
 
 #EXTINF:-1 group-title="Canais | NOVELAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/TVI_Fic%C3%A7%C3%A3o_%282017%29.png",TVi Ficção
 https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8?ManoTV
 
+# 📺 Realitys
 #EXTINF:-1 group-title="Canais | REALITY" tvg-logo="https://images.pluto.tv/channels/61a528267e1b8b0007357920/colorLogoPNG.png",MTV Com o Ex
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61a528267e1b8b0007357920/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
@@ -78,12 +89,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/626c2a3502d84a0007cec8
 #EXTINF:-1 group-title="Canais | REALITY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/MasterchefSpain-logo.png",MasterChef
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6077045b6031bd00078de127/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=65aaf550-f9bd-11eb-8aa4-9fbe6c9efd24&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=236636d2-5215-4c91-960b-a0fdf5d55119&userId=&serverSideAds=true
 
-#EXTINF:-1 group-title="Canais | REALITY" tvg-logo="https://imgur.com/2qWdToI.png",SONY ONE SHARK TANK
-https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SharkTank/playlist.m3u8
-
-#EXTINF:-1 group-title="Canais | FILMES E SERIES" tvg-logo="https://imgur.com/mMLZhgP.png",Studio Universal HD [Alter]
-http://t2tp.xyz:80/343963665/370954400/71383
-
+# 📺 Filmes e Séries
 #EXTINF:-1 group-title="Canais | FILMES E SERIES" tvg-logo="https://imgur.com/20h0JkN.png",Disney Channel HD
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/3
 
@@ -382,8 +388,13 @@ https://stmv1.srvif.com/2022/2022/playlist.m3u8
 https://caikron.com.br:19360/tvmi/tvmi.m3u8
 #EXTINF:-1 group-title="Canais | ABERTO" tvg-logo="https://i.imgur.com/jdd5Jsa.png",PIXTV HD
 https://cdn-2.nxplay.com.br/PIX_TV/index.m3u8
+
 #EXTINF:-1 group-title="Canais | ABERTO" tvg-logo="https://i.imgur.com/Y9N1RL3.png",TV Mais
 https://video01.soultv.com.br/tvmaisabc/tvmaisabc/playlist.m3u8
+
+#EXTINF:-1 group-title="Canais | ABERTO" tvg-logo="https://canalcurta.tv.br/assets/img/logo_canalcurta.png?v=1.001",Curta
+https://bit.ly/3qaKU0h?/chunklist_w1922194739.m3u8
+
 #EXTINF:-1 group-title="Canais | ABERTO" tvg-logo="https://imgur.com/psyk2C5.png",RIT TV YT
 https://ythls.armelin.one/channel/UCA0bOG0NUfJ855eDtHSxOkw.m3u8
 #EXTINF:-1 group-title="Canais | ABERTO" tvg-logo="https://imgur.com/psyk2C5.png",RIT TV
