@@ -107,7 +107,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
 #EXTINF:-1 group-title="Canais | FILMES" tvg-logo="https://i.ibb.co/86pqk9q/Runtime-476x476-Circle.png",Runtime TV e Filmes HD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
 
-#EXTINF:-1 group-title="Canais | FILMES" tvg-logo="https://imgur.com/TZ7LfjB.png",Runtime Comédia HD
+#EXTINF:-1 group-title="Canais | FILMES" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/thumbnails/widescreen/runtime_comedia_16x9.jpg",Runtime Comédia HD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
 
 #EXTINF:-1 group-title="Canais | FILMES" tvg-logo="https://imgur.com/pFtnILf.png",Runtime Família
