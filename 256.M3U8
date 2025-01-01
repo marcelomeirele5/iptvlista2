@@ -299,20 +299,24 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604b99d633a72b00078e05
 #EXTINF:-1 group-title="Canais | MÚSICA" tvg-logo="https://i.ibb.co/h9RR8R8/LOGO-TOP-TV-HD.png",TOP TV
 https://isaocorp.cloudecast.com/toptv/index.m3u8?ManoTV
 
-#EXTINF:-1 group-title="Canais | MÚSICA" tvg-logo="https://imgur.com/wE5uBK7.png",MaisUm
+#EXTINF:-1 group-title="Canais | MÚSICA" tvg-logo="https://i.ibb.co/RjM3Zt0/GVNEAb-AXIAE8c-MR.jpg",MaisUm
 https://stream.ichibantv.com:3230/hybrid/play.m3u8
 
-#EXTINF:-1 group-title="Canais | MÚSICA" tvg-logo="https://imgur.com/yF42kfj.png",POP PEGAJOSO
+#EXTINF:-1 group-title="Canais | MÚSICA" tvg-logo="https://www.marilumeza.com/wp-content/uploads/2021/10/Canela-900.png",Canela Music
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1086
 
 #EXTINF:-1 group-title="Canais | MÚSICA" tvg-logo="https://i.imgur.com/8uXwaqs.png",Kiss TV
 https://isaocorp.cloudecast.com/kisstv/index.m3u8
-#EXTINF:-1 group-title="Canais | MÚSICA" tvg-logo="https://i.imgur.com/6hDnWxA.png",Hallo Music
+
+#EXTINF:-1 group-title="Canais | MÚSICA" tvg-logo="https://i.ibb.co/wgfhJ9K/67167045cf334-35638a5d8e90284bd5ddd0b644070015.png",Hallo Music
 https://cdn-1.nxplay.com.br/HALLOMUSIC/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
-#EXTINF:-1 group-title="Canais | MÚSICA" tvg-logo="https://i.imgur.com/47oBUBM.png",Gospel Music TV
+
+#EXTINF:-1 group-title="Canais | MÚSICA" tvg-logo="https://i.ibb.co/GJktmjG/unnamed.jpg",Gospel Music TV
 https://stmv1.srvif.com/gmusic/gmusic/playlist.m3u8
+
 #EXTINF:-1 group-title="RÁDIO" tvg-logo="https://imgur.com/11DH4AQ.png",ATIVIDADE FM 87.9 Canudos BA
 http://atividadefm879.html5player.acessaradios.com.br:9256/atividadefm879
+
 #EXTINF:-1 group-title="RÁDIO" tvg-logo="https://imgur.com/sxxaEKP.png",JERE FM 106.9 JEREMOABO BA
 http://172.82.160.250:8309/stream
 #EXTINF:-1 group-title="RÁDIO" tvg-logo="https://i.imgur.com/UiNMxT2.png",Gospel Internacional
