@@ -110,10 +110,10 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
 #EXTINF:-1 group-title="Canais | FILMES" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/thumbnails/widescreen/runtime_comedia_16x9.jpg",Runtime Comédia HD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
 
-#EXTINF:-1 group-title="Canais | FILMES" tvg-logo="https://imgur.com/pFtnILf.png",Runtime Família
+#EXTINF:-1 group-title="Canais | FILMES" tvg-logo="https://img3.static-ottera.com/prod/run/linear_channel/logo/960x540/runtime_familia_16x9.jpg",Runtime Família
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5589
 
-#EXTINF:-1 group-title="Canais | FILMES" tvg-logo="https://imgur.com/U6ElKK3.png",Runtime Romance
+#EXTINF:-1 group-title="Canais | FILMES" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/thumbnails/widescreen/runtime_romance_16x9.jpg",Runtime Romance
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
 
 #EXTINF:-1 group-title="Canais | FILMES" tvg-logo="https://imgur.com/bzX7MO8.png",Runtime Cine Espanto
