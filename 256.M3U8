@@ -154,6 +154,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61b790b985706b00072cb7
 
 
 # 📺 Séries 
+
 #EXTINF:-1 group-title="Canais | SÉRIES" tvg-logo="https://i.ibb.co/db9Kv5h/AAAABev-YI889-Fb-Lcem-Ggfb-XVZv-KNBHZk-QRu-Cy-MW-Ybx-NOw5-K3-Kw9l5h-Ezv-S8-JEKIzz-C6-W3tpo-Eri-Xt-J.png",Rookie Blue
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64ff2d8c6625510008c5a512/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
@@ -235,6 +236,7 @@ https://cdn-1.nxplay.com.br/HALLOANIME/index.m3u8
 #EXTINF:-1 group-title="Canais | ANIMES & GEEK" tvg-logo="https://imgur.com/BatygW5.png",Animax
 https://stream.ichibantv.com:3547/hybrid/play.m3u8
 
+
 # 📺 Infantil
 
 #EXTINF:-1 group-title="Canais | INFANTIL" tvg-logo="https://images.pluto.tv/channels/62d969fd8451a30007f0fd94/colorLogoPNG.png",Cocoricó
@@ -258,20 +260,24 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4fb4cf605ddf00074
 #EXTINF:-1 group-title="Canais | INFANTIL" tvg-logo="https://www.imagenspng.com.br/wp-content/uploads/2018/10/patrulha-canina-logo.png",PAW Patrol Patrulha Canina
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6495c7ad115d060008bf6df0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 group-title="Canais | INFANTIL" tvg-logo="https://imgur.com/y9bZ4rD.png",Clubinho
-http://cdn.connectbr.com.br:80/Clubinho/tracks-v1a1/mono.m3u8?ManoTV
-#EXTINF:-1 group-title="Canais | INFANTIL" tvg-logo="https://i.imgur.com/IbCiig8.png",Kid Mais
+#EXTINF:-1 group-title="Canais | INFANTIL" tvg-logo="https://i.ibb.co/rFXmHRz/logotipokidsmais2-1024x576.png",Kid Mais
 https://video03.logicahost.com.br/novafamilia01/novafamilia01/playlist.m3u8
-#EXTINF:-1 group-title="Canais | INFANTIL" tvg-logo="https://i.imgur.com/qSC5fSZ.png",Kuriakos Kids
+
+#EXTINF:-1 group-title="Canais | INFANTIL" tvg-logo="https://kuriakos-kids.com/wp-content/uploads/2024/11/KuriakosKids_curvas-removebg-preview.png",Kuriakos Kids
 https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
-#EXTINF:-1 group-title="Canais | INFANTIL" tvg-logo="https://i.imgur.com/QyAPwBx.png",Toon Googles | Brasil
+
+#EXTINF:-1 group-title="Canais | INFANTIL" tvg-logo="https://i.ibb.co/rHqCHVS/ezgif-7-f65f0f018b.png",Toon Googles | Brasil
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=274
-#EXTINF:-1 group-title="Canais | INFANTIL" tvg-logo="https://i.imgur.com/sqUlcaY.png",Os Jetsons | Brasil
+
+#EXTINF:-1 group-title="Canais | INFANTIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/The_Jetsons_%28television_series_logo%29.svg",Os Jetsons | Brasil
 https://stmv1.srvif.com/jetsontv/jetsontv/chunklist.m3u8?ManoTV
+
 #EXTINF:-1 group-title="Canais | INFANTIL" tvg-logo="https://imgur.com/dO4krB3.png",TV RA TIM BUM HD
 http://t2tp.xyz:80/343963665/370954400/71397
+
 #EXTINF:-1 group-title="Canais | INFANTIL" tvg-logo="http://app.tvdigital.link:2095/logoscanais/NICKJR.png",Nick jr. HD
 http://t2tp.xyz:80/343963665/370954400/71368
+
 #EXTINF:-1 group-title="Canais | INFANTIL" tvg-logo="http://app.tvdigital.link:2095/logoscanais/NICKJR.png",Nick jr. HD [Alter]
 http://cdn2.connectbr.com.br/Nickjr/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Canais | INFANTIL" tvg-logo="https://imgur.com/dlTmblr.png",Cartoon Network HD [Alter] 2
