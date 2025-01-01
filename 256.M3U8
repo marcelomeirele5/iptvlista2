@@ -7,7 +7,7 @@ http://15.235.15.230:14513/
 #EXTINF:-1 group-title="Canais | ABERTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png",Globo TV Curitiba 
 http://15.235.15.230:14487/
 
-#EXTINF:-1 group-title="Canais | ABERTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png",Globo TV Maringa 
+#EXTINF:-1 group-title="Canais | ABERTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png",Globo TV Maringá 
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/45
 
 #EXTINF:-1 group-title="Canais | ABERTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png",Globo TV Mirante
@@ -16,7 +16,7 @@ http://15.235.15.230:14499/MANOTV
 #EXTINF:-1 group-title="Canais | ABERTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png",Globo TV RBS
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/49
 
-#EXTINF:-1 group-title="Canais | ABERTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png",Record TV BA 
+#EXTINF:-1 group-title="Canais | ABERTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png",Record TV Bahia 
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/39
 
 #EXTINF:-1 group-title="Canais | ABERTOS" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/band.png",BAND
@@ -37,6 +37,9 @@ https://59f1cbe63db89.streamlock.net:1443/redetvro/redetvro/chunklist_w157567615
 # 📺 Fechados
 #EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://images.samsung.com/is/image/samsung/assets/br/tvs/smart-tv/channel-list/NEW_BRASIL_1-1_CIRCLE_1000x1000.png?$ORIGIN_PNG$",NEW BRASIL 1
 https://cc-7pakstinpyajo.akamaized.net/playlist720lp.m3u8
+
+#EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://i.imgur.com/yVux2yk.jpeg",Resumo da Ópera 
+https://011news.akamaized.net/011news/011news/chunklist_720p.m3u8
 
 #EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://images.samsung.com/is/image/samsung/assets/br/tvs/smart-tv/channel-list/NEW_BRASIL_1-1_CIRCLE_1000x1000.png?$ORIGIN_PNG$",NEW BRASIL 2
 https://cc-7pakstinpyajo.akamaized.net/playlist1080p.m3u8
