@@ -104,10 +104,10 @@ http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/3
 #EXTINF:-1 group-title="Canais | FILMES" tvg-logo="https://i.ibb.co/j8W8nYK/Runtime-Acao-b-1000x1000-circle.png",Runtime Ação 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
 
-#EXTINF:-1 group-title="Canais | FILMES" tvg-logo="https://i.ibb.co/86pqk9q/Runtime-476x476-Circle.png",Runtime TV e Filmes HD
+#EXTINF:-1 group-title="Canais | FILMES" tvg-logo="https://i.ibb.co/86pqk9q/Runtime-476x476-Circle.png",Runtime TV e Filmes
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
 
-#EXTINF:-1 group-title="Canais | FILMES" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/thumbnails/widescreen/runtime_comedia_16x9.jpg",Runtime Comédia HD
+#EXTINF:-1 group-title="Canais | FILMES" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/thumbnails/widescreen/runtime_comedia_16x9.jpg",Runtime Comédia
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
 
 #EXTINF:-1 group-title="Canais | FILMES" tvg-logo="https://img3.static-ottera.com/prod/run/linear_channel/logo/960x540/runtime_familia_16x9.jpg",Runtime Família
