@@ -154,7 +154,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61b790b985706b00072cb7
 
 
 # 📺 Séries 
-
 #EXTINF:-1 group-title="Canais | SÉRIES" tvg-logo="https://i.ibb.co/db9Kv5h/AAAABev-YI889-Fb-Lcem-Ggfb-XVZv-KNBHZk-QRu-Cy-MW-Ybx-NOw5-K3-Kw9l5h-Ezv-S8-JEKIzz-C6-W3tpo-Eri-Xt-J.png",Rookie Blue
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64ff2d8c6625510008c5a512/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
@@ -238,7 +237,6 @@ https://stream.ichibantv.com:3547/hybrid/play.m3u8
 
 
 # 📺 Infantil
-
 #EXTINF:-1 group-title="Canais | INFANTIL" tvg-logo="https://images.pluto.tv/channels/62d969fd8451a30007f0fd94/colorLogoPNG.png",Cocoricó
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62d969fd8451a30007f0fd94/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
@@ -284,20 +282,14 @@ https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8?ManoTV
 #EXTINF:-1 group-title="Canais | INFANTIL" tvg-logo="https://i.ibb.co/XsJcFbr/channels4-profile.jpg",TVZYN
 https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5w3mfvzg9saoi/playlist.m3u8
 
-#EXTINF:-1 group-title="Canais | INFANTIL" tvg-logo="https://yt3.ggpht.com/oBo-NVXMmfaCLcjiWM2G8mIxFw-LIEck0w_RAZ5Ciawsi-7duneoEQ3qcmR4R6jAkVPaxOrqig",A Casa Mágica da Gabby YT
-https://ythls.armelin.one/channel/UC4bG4HsFDLpm1qTPDqZFRgA.m3u8
-#EXTINF:-1 group-title="Canais | INFANTIL" tvg-logo="https://imgur.com/MdTw4GF.png",Talking Tom & Amigos YT
-https://ythls.armelin.one/channel/UCY9xIaF8CIdS23e0W6nHAmg.m3u8
-#EXTINF:-1 group-title="Canais | INFANTIL" tvg-logo="https://i.imgur.com/1JVrZFk.png",Ministério Infantil TV
-https://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8
-#EXTINF:-1 group-title="Canais | INFANTIL" tvg-logo="https://imgur.com/trwd2sT.png",Peppa Pig YT
-https://ythls.armelin.one/channel/UCvD9GB-E4q_TuMpwUtFBhLA.m3u8
-#EXTINF:-1 group-title="Canais | INFANTIL" tvg-logo="https://imgur.com/BatygW5.png",Power Rangers YT 24h
-https://ythls.armelin.one/channel/UCE3_4WG166NcyQPcRtgGWkQ.m3u8
-#EXTINF:-1 group-title="Canais | MÚSICA" tvg-logo="https://imgur.com/8uGhB6m.png",MTV Biggest Pop
+
+# 📺 Músicas
+#EXTINF:-1 group-title="Canais | MÚSICA" tvg-logo="https://i.ibb.co/MC6rYMG/MTV-Circle-476x476-Samsung-TV.png",MTV Biggest Pop
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6047fbdbbb776a0007e7f2ff/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=65aa3200-f9bd-11eb-8aa4-9fbe6c9efd24&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=93901adb-1cd6-4054-9f35-6f3746b30848&userId=&serverSideAds=true
-#EXTINF:-1 group-title="Canais | MÚSICA" tvg-logo="https://imgur.com/jXhTsl7.png",MTV Spankin' New
+
+#EXTINF:-1 group-title="Canais | MÚSICA" tvg-logo="https://images.pluto.tv/channels/6047ff2e5e61cf000784e4da/featuredImage.jpg",MTV Spankin' New
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6047ff2e5e61cf000784e4da/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
 #EXTINF:-1 group-title="Canais | MÚSICA" tvg-logo="https://imgur.com/3roKMCE.png",Pluto TV Shows por Stingray
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/604b91e0692f770007d9f33f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=7d759160-c883-11eb-a960-3d434807f51f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c59dd21f-38ed-446d-8348-e9e4b6640131&userId=&serverSideAds=true
 #EXTINF:-1 group-title="Canais | MÚSICA" tvg-logo="https://images.pluto.tv/channels/604b99d633a72b00078e05ad/colorLogoPNG.png",Pluto TV Karaokê por Stingray
