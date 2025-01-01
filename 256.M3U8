@@ -295,12 +295,16 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/604b91e0692f770007d
 
 #EXTINF:-1 group-title="Canais | MÚSICA" tvg-logo="https://images.pluto.tv/channels/604b99d633a72b00078e05ad/colorLogoPNG.png",Pluto TV Karaokê por Stingray
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604b99d633a72b00078e05adlivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
-#EXTINF:-1 group-title="Canais | MÚSICA" tvg-logo="https://i.imgur.com/G5SWqHS.png",TOP TV FHD
+
+#EXTINF:-1 group-title="Canais | MÚSICA" tvg-logo="https://i.ibb.co/h9RR8R8/LOGO-TOP-TV-HD.png",TOP TV
 https://isaocorp.cloudecast.com/toptv/index.m3u8?ManoTV
+
 #EXTINF:-1 group-title="Canais | MÚSICA" tvg-logo="https://imgur.com/wE5uBK7.png",MaisUm
 https://stream.ichibantv.com:3230/hybrid/play.m3u8
+
 #EXTINF:-1 group-title="Canais | MÚSICA" tvg-logo="https://imgur.com/yF42kfj.png",POP PEGAJOSO
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1086
+
 #EXTINF:-1 group-title="Canais | MÚSICA" tvg-logo="https://i.imgur.com/8uXwaqs.png",Kiss TV
 https://isaocorp.cloudecast.com/kisstv/index.m3u8
 #EXTINF:-1 group-title="Canais | MÚSICA" tvg-logo="https://i.imgur.com/6hDnWxA.png",Hallo Music
