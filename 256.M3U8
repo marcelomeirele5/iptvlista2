@@ -278,10 +278,12 @@ http://t2tp.xyz:80/343963665/370954400/71397
 #EXTINF:-1 group-title="Canais | INFANTIL" tvg-logo="https://i.ibb.co/sP7mC98/Nick-Jr-Club-Pluto-TV-476x476circle.png",Nick jr.
 http://t2tp.xyz:80/343963665/370954400/71368
 
-#EXTINF:-1 group-title="Canais | INFANTIL" tvg-logo="https://i.imgur.com/x33MwPN.png",RETRO CARTOON
+#EXTINF:-1 group-title="Canais | INFANTIL" tvg-logo="https://portalvoxhd.com.br/estacoes/webtv-328.png",RETRO CARTOON
 https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8?ManoTV
-#EXTINF:-1 group-title="Canais | INFANTIL" tvg-logo="https://imgur.com/BmmsPO8.png",TVZYN
+
+#EXTINF:-1 group-title="Canais | INFANTIL" tvg-logo="https://i.ibb.co/XsJcFbr/channels4-profile.jpg",TVZYN
 https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5w3mfvzg9saoi/playlist.m3u8
+
 #EXTINF:-1 group-title="Canais | INFANTIL" tvg-logo="https://yt3.ggpht.com/oBo-NVXMmfaCLcjiWM2G8mIxFw-LIEck0w_RAZ5Ciawsi-7duneoEQ3qcmR4R6jAkVPaxOrqig",A Casa Mágica da Gabby YT
 https://ythls.armelin.one/channel/UC4bG4HsFDLpm1qTPDqZFRgA.m3u8
 #EXTINF:-1 group-title="Canais | INFANTIL" tvg-logo="https://imgur.com/MdTw4GF.png",Talking Tom & Amigos YT
