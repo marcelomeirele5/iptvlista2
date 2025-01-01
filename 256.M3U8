@@ -272,16 +272,12 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=274
 #EXTINF:-1 group-title="Canais | INFANTIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/The_Jetsons_%28television_series_logo%29.svg",Os Jetsons | Brasil
 https://stmv1.srvif.com/jetsontv/jetsontv/chunklist.m3u8?ManoTV
 
-#EXTINF:-1 group-title="Canais | INFANTIL" tvg-logo="https://imgur.com/dO4krB3.png",TV RA TIM BUM HD
+#EXTINF:-1 group-title="Canais | INFANTIL" tvg-logo="https://tvratimbum.com.br/linha-do-tempo/logos/logo-2004.png",TV RA TIM BUM 
 http://t2tp.xyz:80/343963665/370954400/71397
 
-#EXTINF:-1 group-title="Canais | INFANTIL" tvg-logo="http://app.tvdigital.link:2095/logoscanais/NICKJR.png",Nick jr. HD
+#EXTINF:-1 group-title="Canais | INFANTIL" tvg-logo="https://i.ibb.co/sP7mC98/Nick-Jr-Club-Pluto-TV-476x476circle.png",Nick jr.
 http://t2tp.xyz:80/343963665/370954400/71368
 
-#EXTINF:-1 group-title="Canais | INFANTIL" tvg-logo="http://app.tvdigital.link:2095/logoscanais/NICKJR.png",Nick jr. HD [Alter]
-http://cdn2.connectbr.com.br/Nickjr/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Canais | INFANTIL" tvg-logo="https://imgur.com/dlTmblr.png",Cartoon Network HD [Alter] 2
-http://cdn2.connectbr.com.br/Cartoon-Network/index.m3u8
 #EXTINF:-1 group-title="Canais | INFANTIL" tvg-logo="https://i.imgur.com/x33MwPN.png",RETRO CARTOON
 https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8?ManoTV
 #EXTINF:-1 group-title="Canais | INFANTIL" tvg-logo="https://imgur.com/BmmsPO8.png",TVZYN
