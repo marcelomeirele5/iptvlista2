@@ -138,10 +138,10 @@ https://stmv2.samcast.com.br/adao6116/adao6116/playlist.m3u8?ManoTV
 
 
 # 📺 Fechados
-#EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-201",Animal Planet 1
+#EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://i.ibb.co/X5FzDPW/2018-Animal-Planet-logo-svg.png",Animal Planet 1
 http://fzcdn.vood.top:80/hls/2602_.m3u8
 
-#EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-201",Animal Planet 2
+#EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://i.ibb.co/X5FzDPW/2018-Animal-Planet-logo-svg.png",Animal Planet 2
 https://cdn-1.nxplay.com.br/ANIMAL_PLANET_NX/index.m3u8
 
 #EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/Megapix_fundoclaro_midiaimpressa.png",MegaPix
