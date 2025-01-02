@@ -249,6 +249,10 @@ http://dzcdn.vood.top:80/hls/18771_.m3u8
 #EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/FX_Logo_2023.svg/1280px-FX_Logo_2023.svg.png",Fx
 http://hzcdn.vood.top:80/hls/592_.m3u8
 
+#EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Amc_logo.svg/1024px-Amc_logo.svg.png",AMC
+http://dzcdn.vood.top/hls/669_.m3u8
+
+
 
 # 📺 Notícias
 #EXTINF:-1 group-title="Canais | NOTÍCIAS" tvg-logo="https://i.ibb.co/nwqTtkk/JP-NEWS-B-1000x1000-1.png",Jovem Pan NEWS
