@@ -34,16 +34,28 @@ https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
 #EXTINF:-1 group-title="Canais | ABERTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png",RedeTV Tocantins
 https://59f1cbe63db89.streamlock.net:1443/redetvro/redetvro/chunklist_w1575676158.m3u8
 
-#EXTINF:-1 group-title="Canais | ABERTO" tvg-logo="https://rtntv.online/wp-content/uploads/sites/23/2024/01/logotipo.png",RTN TV SP
+#EXTINF:-1 group-title="Canais | ABERTOS" tvg-logo="https://rtntv.online/wp-content/uploads/sites/23/2024/01/logotipo.png",RTN TV SP
 https://tv01.zas.media:1936/rtntv/rtntv/playlist.m3u8
 
-#EXTINF:-1 group-title="Canais | ABERTO" tvg-logo="https://www.glntv.com.br/admin/assets/img/users/8639-2023-01-02.png",GLN TV
+#EXTINF:-1 group-title="Canais | ABERTOS" tvg-logo="https://www.glntv.com.br/admin/assets/img/users/8639-2023-01-02.png",GLN TV
 https://stmv1.paineltv.net/glnfilmes/glnfilmes/playlist.m3u8?ManoTV
 
-#EXTINF:-1 group-title="Canais | ABERTO" tvg-logo="https://i.ibb.co/1Rr4zbG/unnamed.png",TV Grão Pará
+#EXTINF:-1 group-title="Canais | ABERTOS" tvg-logo="https://i.imgur.com/9dGaIdY.png",TV BRASIL
+https://tvbrasil-stream.ebc.com.br/index.m3u8?ManoTV
+
+#EXTINF:-1 group-title="Canais | ABERTOS" tvg-logo="https://i.ibb.co/1Rr4zbG/unnamed.png",TV Grão Pará
 https://video01.kshost.com.br:4443/moises3834/moises3834/playlist.m3u8?ManoTV
 
-#EXTINF:-1 group-title="Canais | ABERTO" tvg-logo="https://pbr-str.srvsite.com/arquivos/9925/cabecalho-9925-20230322194344.png",PBC TV
+#EXTINF:-1 group-title="Canais | ABERTOS" tvg-logo="https://i.ibb.co/6RBKXkW/Logotipo-da-NGT.png",NGT
+https://isaocorp.cloudecast.com/ngt/index.m3u8?ManoTV
+
+#EXTINF:-1 group-title="Canais | ABERTOS" tvg-logo="https://i.ibb.co/rxstZWZ/unnamed.png",Soul Cine Clube
+https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8?ManoTV
+
+#EXTINF:-1 group-title="Canais | ABERTOS" tvg-logo="https://i.ibb.co/ZTrdD21/20200424071223-favicon.jpg",Clube Web TV
+https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8?ManoTV
+
+#EXTINF:-1 group-title="Canais | ABERTOS" tvg-logo="https://pbr-str.srvsite.com/arquivos/9925/cabecalho-9925-20230322194344.png",PBC TV
 https://stmv2.samcast.com.br/adao6116/adao6116/playlist.m3u8?ManoTV
 
 
@@ -53,6 +65,9 @@ https://cc-7pakstinpyajo.akamaized.net/playlist720lp.m3u8
 
 #EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://i.ibb.co/HxNbFx4/nd-LPKYBW-400x400.png",Resumo da Ópera 
 https://011news.akamaized.net/011news/011news/chunklist_720p.m3u8
+
+#EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://www.istv.com.br/static/media/Logo_ISTV_Noticias_2023_2.552be53f26c3c92a251c.png",ISTV
+https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8
 
 #EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://images.samsung.com/is/image/samsung/assets/br/tvs/smart-tv/channel-list/NEW_BRASIL_1-1_CIRCLE_1000x1000.png?$ORIGIN_PNG$",NEW BRASIL 2
 https://cc-7pakstinpyajo.akamaized.net/playlist1080p.m3u8
@@ -373,35 +388,21 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae66b359b270007869f
 
 
 
-
-
-
-#EXTINF:-1 group-title="Canais | ABERTO" tvg-logo="https://imgur.com/52LSunV.png",Soul Cine Clube
-https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8?ManoTV
-#EXTINF:-1 group-title="Canais | ABERTO" tvg-logo="https://imgur.com/3nNqJHr.png",Clube Web TV
-https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8?ManoTV
-#EXTINF:-1 group-title="Canais | ABERTO" tvg-logo="https://i.imgur.com/n232OSq.png",Tela Viva TV
-https://srv4.zcast.com.br/telavivatv/telavivatv/playlist.m3u8?ManoTV
-#EXTINF:-1 group-title="Canais | ABERTO" tvg-logo="https://i.imgur.com/YSIvnhC.png",ISTV
-https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8
-#EXTINF:-1 group-title="Canais | ABERTO" tvg-logo="https://i.imgur.com/yGBFPRH.png",NGT
-https://isaocorp.cloudecast.com/ngt/index.m3u8?ManoTV
-#EXTINF:-1 group-title="Canais | ABERTO" tvg-logo="https://imgur.com/3AbUT8O.png",XTREME TV
-https://stmv1.srvif.com/xtremetv/xtremetv/playlist.m3u8?ManoTV
-#EXTINF:-1 group-title="Canais | ABERTO" tvg-logo="https://i.imgur.com/xrbBNPa.png",TV Aracati
-https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8?ManoTV
-#EXTINF:-1 group-title="Canais | ABERTO" tvg-logo="https://i.imgur.com/9dGaIdY.png",TV BRASIL
-https://tvbrasil-stream.ebc.com.br/index.m3u8?ManoTV
 #EXTINF:-1 group-title="Canais | ABERTO" tvg-logo="https://i.imgur.com/XqAcHMg.png",Rede Brasil
 https://video07.logicahost.com.br/redebrasil/redebrasil/playlist.m3u8
+
 #EXTINF:-1 group-title="Canais | ABERTO" tvg-logo="https://imgur.com/Po8jJt4.png",TBO HD (Rede Brasil)
 https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8?ManoTV
+
 #EXTINF:-1 group-title="Canais | ABERTO" tvg-logo="https://i.imgur.com/rGJNeou.png",Vivax TV
 https://stmv2.samcast.com.br/marcus8647/marcus8647/playlist.m3u8
+
 #EXTINF:-1 group-title="Canais | ABERTO" tvg-logo="https://imgur.com/21W4K2J.png",TV Brasil Hits
 https://video01.logicahost.com.br/brasilhits/brasilhits/chunklist_w1407789719.m3u8
+
 #EXTINF:-1 group-title="Canais | ABERTO" tvg-logo="https://imgur.com/WjWjQ2A.png",Agro Brasil
 https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8
+
 #EXTINF:-1 group-title="Canais | ABERTO" tvg-logo="https://i.imgur.com/NY4GvIC.png",AgroMais HD
 https://cdn-2.nxplay.com.br/AGROMAIS_HD_TK/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Canais | ABERTO" tvg-logo="https://imgur.com/3g7ijoK.png",XR HEALTH BRASIL
