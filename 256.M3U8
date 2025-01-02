@@ -225,7 +225,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6077045b6031bd00078
 http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:A8:F4:F9&stream=1689605&extension=ts
 
 # 📺 Filmes 
-
 #EXTINF:-1 group-title="Canais | FILMES" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/6/60/%2BSBT_2024.svg/1200px-%2BSBT_2024.svg.png",SBT +Cinema
 http://hzcdn.vood.top:80/hls/390573_.m3u8
 
@@ -237,9 +236,6 @@ http://dzcdn.vood.top:80/hls/271592_.m3u8
 
 #EXTINF:-1 group-title="Canais | FILMES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/DC_Comics_logo.svg/2048px-DC_Comics_logo.svg.png",DC (Teste 2) 
 http://hzcdn.vood.top:80/hls/271593_.m3u8
-
-#EXTINF:-1 group-title="Canais | FILMES" tvg-logo="https://imgur.com/20h0JkN.png",Disney Channel HD
-http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/3
 
 #EXTINF:-1 group-title="Canais | FILMES" tvg-logo="https://img1.static-ottera.com/prod/run/linear_channel/thumbnails/widescreen/960x540/runtime_br_action_bg.jpg",Runtime Ação 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
@@ -320,6 +316,9 @@ https://cdn-1.nxplay.com.br/HALLOSERIES/tracks-v1a1/index.m3u8?token=cdntv_62qwd
 
 
 # 📺 Animes, Desenhos e Geek
+#EXTINF:-1 group-title="Canais | ANIMES, DESENHOS E GEEK" tvg-logo="https://imgur.com/20h0JkN.png",Disney Channel HD
+http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/3
+
 #EXTINF:-1 group-title="Canais | ANIMES, DESENHOS E GEEK" tvg-logo="https://playerv.srvif.com/app-multi-plataforma/logo-otaku.png",OTAKU SIGN TV
 https://stmv1.srvif.com/otaku/otaku/chunklist_w776677652.m3u8
 
