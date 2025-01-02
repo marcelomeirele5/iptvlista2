@@ -43,7 +43,7 @@ https://isaocorp.cloudecast.com/astraltv/index.m3u8
 #EXTINF:-1 group-title="Canais | ABERTOS" tvg-logo="https://i.ibb.co/s2pFJbb/Dimens-es-personalizadas-720x720-px.png",TV RIO MADEIRA
 https://stmv1.srvif.com/tvriomadeira/tvriomadeira/playlist.m3u8
 
-#EXTINF:-1 group-title="Canais | ABERTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/af/Logotipo_da_TV_Brasil_Oeste.pngg",TBO HD (Rede Brasil)
+#EXTINF:-1 group-title="Canais | ABERTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/af/Logotipo_da_TV_Brasil_Oeste.png",TBO HD (Rede Brasil)
 https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8?ManoTV
 
 #EXTINF:-1 group-title="Canais | ABERTOS" tvg-logo="https://static.wixstatic.com/media/9b4759_2455541c839e4dc6972ff9234d2ef2bf~mv2.png/v1/fill/w_560,h_250,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/9b4759_2455541c839e4dc6972ff9234d2ef2bf~mv2.png",Vivax TV
