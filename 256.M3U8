@@ -129,8 +129,23 @@ https://stmv2.samcast.com.br/adao6116/adao6116/playlist.m3u8?ManoTV
 
 
 # 📺 Fechados
+#EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://logo.iptveditor.com/universalpremiere.png",Universal Premiere 🇧🇷
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:A8:F4:F9&stream=1689606&extension=ts
+
 #EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://images.samsung.com/is/image/samsung/assets/br/tvs/smart-tv/channel-list/NEW_BRASIL_1-1_CIRCLE_1000x1000.png?$ORIGIN_PNG$",NEW BRASIL 1
 https://cc-7pakstinpyajo.akamaized.net/playlist720lp.m3u8
+
+#EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://images.samsung.com/is/image/samsung/assets/br/tvs/smart-tv/channel-list/NEW_BRASIL_1-1_CIRCLE_1000x1000.png?$ORIGIN_PNG$",NEW BRASIL 1
+https://cc-7pakstinpyajo.akamaized.net/playlist720lp.m3u8
+
+#EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/6/60/%2BSBT_2024.svg/1200px-%2BSBT_2024.svg.png",SBT TV | TVZYN
+http://dzcdn.vood.top:80/hls/390582_.m3u8
+
+#EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tele-cine-premium-br.png",Telecine Premium 1 🇧🇷 
+http://dzcdn.vood.top/hls/633_.m3u8
+
+#EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tele-cine-premium-br.png",Telecine Premium 2 🇧🇷
+http://tv.proyectox.vip:8080//live/carsalazar1/4ANqaenRM5/10649.ts
 
 #EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://i.ibb.co/HxNbFx4/nd-LPKYBW-400x400.png",Resumo da Ópera 
 https://011news.akamaized.net/011news/011news/chunklist_720p.m3u8
@@ -206,8 +221,23 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/626c2a3502d84a0007cec8
 #EXTINF:-1 group-title="Canais | REALITY" tvg-logo="https://i.ibb.co/gw4gM7b/Master-Chef-Brasil-LOGO-B-1-1-Circle-1000x1000-1.png",MasterChef
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6077045b6031bd00078de127/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=65aaf550-f9bd-11eb-8aa4-9fbe6c9efd24&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=236636d2-5215-4c91-960b-a0fdf5d55119&userId=&serverSideAds=true
 
+#EXTINF:-1 group-title="Canais | REALITY" tvg-logo="https://logo.iptveditor.com/universalreality.png",Universal Reality 🇧🇷
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:A8:F4:F9&stream=1689605&extension=ts
 
 # 📺 Filmes 
+
+#EXTINF:-1 group-title="Canais | FILMES" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/6/60/%2BSBT_2024.svg/1200px-%2BSBT_2024.svg.png",SBT +Cinema
+http://hzcdn.vood.top:80/hls/390573_.m3u8
+
+#EXTINF:-1 group-title="Canais | FILMES" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tele-cine-pipoca-br.png",Telecine Pipoca
+http://ggrrth.htvsat.info:8880/live/287994017b71/287994017b71/16757.m3u8
+
+#EXTINF:-1 group-title="Canais | FILMES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/DC_Comics_logo.svg/2048px-DC_Comics_logo.svg.png",DC (Teste 1) 
+http://dzcdn.vood.top:80/hls/271592_.m3u8
+
+#EXTINF:-1 group-title="Canais | FILMES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/DC_Comics_logo.svg/2048px-DC_Comics_logo.svg.png",DC (Teste 2) 
+http://hzcdn.vood.top:80/hls/271593_.m3u8
+
 #EXTINF:-1 group-title="Canais | FILMES" tvg-logo="https://imgur.com/20h0JkN.png",Disney Channel HD
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/3
 
@@ -258,6 +288,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61b790b985706b00072cb7
 
 
 # 📺 Séries 
+#EXTINF:-1 group-title="Canais | FILMES" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/6/60/%2BSBT_2024.svg/1200px-%2BSBT_2024.svg.png",SBT +Série
+http://dzcdn.vood.top:80/hls/390580_.m3u8
+
 #EXTINF:-1 group-title="Canais | SÉRIES" tvg-logo="https://i.ibb.co/db9Kv5h/AAAABev-YI889-Fb-Lcem-Ggfb-XVZv-KNBHZk-QRu-Cy-MW-Ybx-NOw5-K3-Kw9l5h-Ezv-S8-JEKIzz-C6-W3tpo-Eri-Xt-J.png",Rookie Blue
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64ff2d8c6625510008c5a512/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
@@ -293,8 +326,11 @@ https://stmv1.srvif.com/otaku/otaku/chunklist_w776677652.m3u8
 #EXTINF:-1 group-title="Canais | ANIMES, DESENHOS E GEEK" tvg-logo="https://i.ibb.co/bXFGN10/images.jpg",BS TV
 https://br5093.streamingdevideo.com.br/bstv/bstv/chunklist_w1014792137.m3u8
 
-#EXTINF:-1 group-title="Canais | ANIMES, DESENHOS E GEEK" tvg-logo="https://i.ibb.co/LxYbkD1/Pluto-TV-Anime-476x476circle.png",Pluto TV Anime
+#EXTINF:-1 group-title="Canais | ANIMES, DESENHOS E GEEK" tvg-logo="https://i.ibb.co/LxYbkD1/Pluto-TV-Anime-476x476circle.png",Pluto TV Anime 1
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604b79c558393100078faeef/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="Canais | ANIMES, DESENHOS E GEEK" tvg-logo="https://i.ibb.co/LxYbkD1/Pluto-TV-Anime-476x476circle.png",Pluto TV Anime 2
+https://bit.ly/3qY2y4m?profile=608181d420fc8500075f612a.m3u8
 
 #EXTINF:-1 group-title="Canais | ANIMES, DESENHOS E GEEK" tvg-logo="https://images.pluto.tv/channels/624b1c8d4321e200073ee421/colorLogoPNG.png",One Piece
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/624b1c8d4321e200073ee421/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -397,8 +433,11 @@ https://stmv1.srvif.com/jetsontv/jetsontv/chunklist.m3u8?ManoTV
 #EXTINF:-1 group-title="Canais | INFANTIL" tvg-logo="https://tvratimbum.com.br/linha-do-tempo/logos/logo-2004.png",TV RA TIM BUM 
 http://t2tp.xyz:80/343963665/370954400/71397
 
-#EXTINF:-1 group-title="Canais | INFANTIL" tvg-logo="https://i.ibb.co/sP7mC98/Nick-Jr-Club-Pluto-TV-476x476circle.png",Nick jr.
+#EXTINF:-1 group-title="Canais | INFANTIL" tvg-logo="https://images.pluto.tv/channels/5f121460b73ac6000719fbaf/colorLogoPNG.png",Nick jr. 1
 http://t2tp.xyz:80/343963665/370954400/71368
+
+#EXTINF:-1 group-title="Canais | INFANTIL" tvg-logo="https://images.pluto.tv/channels/5f121460b73ac6000719fbaf/colorLogoPNG.png",Nick jr. 2
+https://bit.ly/3rUCg15?profile=5f121460b73ac6000719fbaf.m3u8
 
 #EXTINF:-1 group-title="Canais | INFANTIL" tvg-logo="https://portalvoxhd.com.br/estacoes/webtv-328.png",RETRO CARTOON
 https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8?ManoTV
