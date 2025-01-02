@@ -138,8 +138,8 @@ http://fzcdn.vood.top:80/hls/705_.m3u8
 #EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://logo.iptveditor.com/universalpremiere.png",Universal Premiere
 https://dzcdn.vood.top/hls/742_.m3u8
 
-#EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://images.samsung.com/is/image/samsung/assets/br/tvs/smart-tv/channel-list/NEW_BRASIL_1-1_CIRCLE_1000x1000.png?$ORIGIN_PNG$",NEW BRASIL 1
-https://cc-7pakstinpyajo.akamaized.net/playlist720lp.m3u8
+#EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://nxplay-images.comets.com.br/resize/6712cb9d27872_d201898ec6c98e84b8e83ab006390217.png",Hello +
+https://cdn-3.nxplay.com.br/halloplus/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://images.samsung.com/is/image/samsung/assets/br/tvs/smart-tv/channel-list/NEW_BRASIL_1-1_CIRCLE_1000x1000.png?$ORIGIN_PNG$",NEW BRASIL 1
 https://cc-7pakstinpyajo.akamaized.net/playlist720lp.m3u8
