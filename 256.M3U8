@@ -293,6 +293,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6077045b6031bd00078
 #EXTINF:-1 group-title="Canais | REALITY" tvg-logo="https://logo.iptveditor.com/universalreality.png",Universal Reality 🇧🇷
 http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:A8:F4:F9&stream=1689605&extension=ts
 
+
 # 📺 Filmes 
 #EXTINF:-1 group-title="Canais | FILMES" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/6/60/%2BSBT_2024.svg/1200px-%2BSBT_2024.svg.png",SBT +Cinema
 http://hzcdn.vood.top:80/hls/390573_.m3u8
@@ -391,6 +392,7 @@ https://bit.ly/429JSAQ?profile=63eb9fdda995710008991c54.m3u8
 
 #EXTINF:-1 group-title="Canais | SÉRIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/CSI_Miami_Logo.png",NCIS Miami
 https://bit.ly/3SkIV58?profile=63eb9c5351f5d000085e8d7e.m3u8
+
 
 # 📺 Animes, Desenhos e Geek
 #EXTINF:-1 group-title="Canais | ANIMES, DESENHOS E GEEK" tvg-logo="https://imgur.com/20h0JkN.png",Disney Channel HD
@@ -579,8 +581,14 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32d4d9ec194100070
 #EXTINF:-1 group-title="Canais | VARIEDADES" tvg-logo="https://pbs.twimg.com/media/GNzt131WEAAHepC.jpg",Pluto TV Canal UOL
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64b9370b409629000802d32blivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 
-#EXTINF:-1 group-title="Canais | VARIEDADES" tvg-logo="https://i.ibb.co/pRtxrq6/featured-Image.jpg",Pronto-socorro: Histórias De Emergência
+#EXTINF:-1 group-title="Canais | VARIEDADES" tvg-logo="https://i.ibb.co/pRtxrq6/featured-Image.jpg",Pronto-socorro: Histórias De Emergência 1
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61bb72a7bf8c520007a8fd27/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="Canais | VARIEDADES" tvg-logo="https://i.ibb.co/pRtxrq6/featured-Image.jpg",Pronto-socorro: Histórias De Emergência 2
+https://bit.ly/42QJRSy?profile=inspirationFreetv.m3u8
+
+#EXTINF:-1 group-title="Canais | VARIEDADES" tvg-logo="https://i.ibb.co/CW5hRMW/featured-Image.jpg",Pluto TV Curiosidade
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6474aadc8e3c0a0008b98493/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
 #EXTINF:-1 group-title="Canais | VARIEDADES" tvg-logo="https://images.pluto.tv/channels/620d1512c7986a0007220213/featuredImage.jpg",Assombrações
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620d1512c7986a0007220213/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -607,4 +615,15 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f357e91b18f0b00073583
 
 #EXTINF:-1 group-title="Canais | COMÉDIA" tvg-logo="https://images.pluto.tv/channels/609ae66b359b270007869ff1/colorLogoPNG.png",Comedy Central South Park
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae66b359b270007869ff1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+# 📺 Esportes
+#EXTINF:-1 group-title="Canais | ESPORTES" tvg-logo="https://static.wixstatic.com/media/e7bfbc_94a941b045774114a4b2331dd6ed1d61~mv2.png/v1/fill/w_204,h_324,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/logo.png",Nosso Futebol
+http://fzcdn.vood.top:80/hls/301421_.m3u8
+
+#EXTINF:-1 group-title="Canais | ESPORTES" tvg-logo="https://i.ibb.co/gS64ZZb/cazetv-logo-2.png",Cazé TV
+https://cc-panvcqnzkgrdl.akamaized.net/Caze/Caze_TV_BR/Caze_TV.m3u8
+
+
+
+
 
