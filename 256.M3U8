@@ -132,6 +132,9 @@ https://stmv2.samcast.com.br/adao6116/adao6116/playlist.m3u8?ManoTV
 #EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/Megapix_fundoclaro_midiaimpressa.png",MegaPix
 http://ggrrth.htvsat.info:8880/live/287994017b71/287994017b71/31278.ts
 
+#EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/space-br.png",Space
+http://fzcdn.vood.top:80/hls/705_.m3u8
+
 #EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://logo.iptveditor.com/universalpremiere.png",Universal Premiere
 https://dzcdn.vood.top/hls/742_.m3u8
 
