@@ -651,4 +651,5 @@ https://super-cdn.link/sportv3/index.m3u8
 #EXTINF:-1 group-title="Canais | ESPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/SporTV3_2021.png/1200px-SporTV3_2021.png",Sport TV 3
 http://dzcdn.vood.top:80/hls/118705_.m3u8
 
-
+#EXTINF:-1 group-title="Canais | ESPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/MavTV-2018.PNG",MAVTV Brasil
+https://cc-panvcqnzkgrdl.akamaized.net/Sports7/Sports7_BR/Sports7.m3u8
