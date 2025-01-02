@@ -49,6 +49,9 @@ https://59f1cbe63db89.streamlock.net:1443/redetvro/redetvro/chunklist_w157567615
 #EXTINF:-1 group-title="Canais | ABERTOS" tvg-logo="https://i.ibb.co/vsYFZbc/channels4-profile.jpg",TV Zoom
 https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
 
+#EXTINF:-1 group-title="Canais | ABERTOS" tvg-logo="https://cultne.tv/site/img/logo_cultne_menor.png",Cultne tv
+https://cc-wn1j3f2wnu5lr.akamaized.net/manifest.m3u8
+
 #EXTINF:-1 group-title="Canais | ABERTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Logo_Manual_do_Mundo_%282021%29.png", Manual do Mundo
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/664df5221dc48600087592b1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
@@ -194,6 +197,9 @@ http://fzcdn.vood.top:80/hls/705_.m3u8
 
 #EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://logo.iptveditor.com/universalpremiere.png",Universal Premiere
 https://dzcdn.vood.top/hls/742_.m3u8
+
+#EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://i.ibb.co/pQKjk1J/unnamed.png",TV Turbo
+https://bit.ly/3O1CTE0?profile=6014761dfb91870008ea6463.m3u8
 
 #EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://nxplay-images.comets.com.br/resize/6712cb9d27872_d201898ec6c98e84b8e83ab006390217.png",Hello +
 https://cdn-3.nxplay.com.br/halloplus/tracks-v1a1/mono.m3u8
