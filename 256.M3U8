@@ -156,6 +156,9 @@ https://cdn-3.nxplay.com.br/LIFE_TIME_TK/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://logodownload.org/wp-content/uploads/2017/08/canal-off-logo-1.png",Canal Off
 http://15.235.11.7:14075/OFF
 
+#EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1920px-Star_Channel_2020.svg.png",Star Channel
+http://izcdn.vood.top:80/hls/598_.m3u8
+
 #EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/a-and-e-br.png",A&E 1
 http://czcdn.vood.top:80/hls/666_.m3u8
 
@@ -225,8 +228,23 @@ http://ggrrth.htvsat.info:8880/live/287994017b71/287994017b71/31465.ts
 #EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png",HBO2
 http://ggrrth.htvsat.info:8880/live/287994017b71/287994017b71/31460.ts
 
-#EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1280px-HBO_Signature.svg.png",HBO Signature
+#EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1280px-HBO_Signature.svg.png",HBO Signature
 http://dzcdn.vood.top:80/hls/18767_.m3u8
+
+#EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/768px-HBO_Xtreme.svg.png",HBO Xtreme
+http://gzcdn.vood.top:80/hls/18775_.m3u8
+
+#EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/768px-HBO_Pop.svg.png",HBO Pop
+http://hzcdn.vood.top:80/hls/18779_.m3u8
+
+#EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/768px-HBO_Family.svg.png",HBO Family
+http://czcdn.vood.top:80/hls/18759_.m3u8
+
+#EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/HBO_Mundi.svg",HBO Mundi
+http://dzcdn.vood.top:80/hls/18771_.m3u8
+
+#EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/FX_Logo_2023.svg/1280px-FX_Logo_2023.svg.png",Fx
+http://hzcdn.vood.top:80/hls/592_.m3u8
 
 
 # 📺 Notícias
@@ -309,6 +327,9 @@ http://hzcdn.vood.top:80/hls/390573_.m3u8
 
 #EXTINF:-1 group-title="Canais | FILMES" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tele-cine-pipoca-br.png",Telecine Pipoca
 http://ggrrth.htvsat.info:8880/live/287994017b71/287994017b71/16757.m3u8
+
+#EXTINF:-1 group-title="Canais | FILMES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png",Cine Canal
+http://hzcdn.vood.top:80/hls/601_.m3u8
 
 #EXTINF:-1 group-title="Canais | FILMES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/DC_Comics_logo.svg/2048px-DC_Comics_logo.svg.png",DC (Teste 1) 
 http://dzcdn.vood.top:80/hls/271592_.m3u8
