@@ -373,6 +373,18 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6495c7ad115d060008bf6d
 #EXTINF:-1 group-title="Canais | INFANTIL" tvg-logo="https://i.ibb.co/rFXmHRz/logotipokidsmais2-1024x576.png",Kid Mais
 https://video03.logicahost.com.br/novafamilia01/novafamilia01/playlist.m3u8
 
+#EXTINF:-1 group-title="Canais | INFANTIL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/discovery-kids-br.png",Discovery Kids 1
+http://15.235.50.115:14561/DiscoveryKids
+
+#EXTINF:-1 group-title="Canais | INFANTIL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/discovery-kids-br.png",Discovery Kids 2
+http://svrhost.club//live/C96VW13E/DPIZ4JSVM/2039.ts
+
+#EXTINF:-1 group-title="Canais | INFANTIL" tvg-logo="https://images.pluto.tv/channels/5f997e44949bc70007a6941e/colorLogoPNG.png",Turma da Mônica
+https://bit.ly/3cXQNoL?profile=5f997e44949bc70007a6941e.m3u8
+
+#EXTINF:-1 group-title="Canais | INFANTIL" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/DisneyChannel.webp",Disney Channel
+https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
+
 #EXTINF:-1 group-title="Canais | INFANTIL" tvg-logo="https://kuriakos-kids.com/wp-content/uploads/2024/11/KuriakosKids_curvas-removebg-preview.png",Kuriakos Kids
 https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
 
@@ -394,6 +406,14 @@ https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8?ManoTV
 #EXTINF:-1 group-title="Canais | INFANTIL" tvg-logo="https://i.ibb.co/XsJcFbr/channels4-profile.jpg",TVZYN
 https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5w3mfvzg9saoi/playlist.m3u8
 
+#EXTINF:-1 group-title="Canais | INFANTIL" tvg-logo="https://decriancaparacrianca.com.br/wp-content/themes/dcpc/shared/images/logo/de-crianca-para-crianca.png",De Criança para Criança
+https://cdn-3.nxplay.com.br/dcpc/index.m3u8
+
+#EXTINF:-1 group-title="Canais | INFANTIL" tvg-logo="https://images.pluto.tv/channels/66c8ca1280a0af00085b5b83/colorLogoPNG.png",Cineminha
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66c8ca1280a0af00085b5b83/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=inspirationiptv&deviceDNT=1
+
+#EXTINF:-1 group-title="Canais | INFANTIL" tvg-logo="https://images.pluto.tv/channels/63eba189c111bc0008ff59c5/colorLogoPNG.png",Moranguinho
+https://stitcher.pluto.tv/stitch/hls/channel/63eba189c111bc0008ff59c5/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=ab3b5982-6948-11ef-ae29-0647e4d345b9
 
 # 📺 Músicas
 #EXTINF:-1 group-title="Canais | MÚSICA" tvg-logo="https://i.ibb.co/MC6rYMG/MTV-Circle-476x476-Samsung-TV.png",MTV Biggest Pop
