@@ -16,11 +16,20 @@ http://15.235.15.230:14499/MANOTV
 #EXTINF:-1 group-title="Canais | ABERTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png",Globo TV RBS
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/49
 
+#EXTINF:-1 group-title="Canais | ABERTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1200px-Logotipo_do_SBT.svg.png",SBT
+http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
+
 #EXTINF:-1 group-title="Canais | ABERTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png",Record TV Bahia 
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/39
 
-#EXTINF:-1 group-title="Canais | ABERTOS" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/band.png",BAND
+#EXTINF:-1 group-title="Canais | ABERTOS" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/band.png",BAND 
+http://15.235.50.115:14522/Band
+
+#EXTINF:-1 group-title="Canais | ABERTOS" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/band.png",BAND - TV RBA
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w1464711203.m3u8
+
+#EXTINF:-1 group-title="Canais | ABERTOS" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/band.png",BAND - TV Arapuan
+https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
 
 #EXTINF:-1 group-title="Canais | ABERTOS" tvg-logo="https://i.ibb.co/YpXtq6j/Cultura-logo-2013-svg.png",TV Cultura 1
 http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8?ManoTV
@@ -129,8 +138,47 @@ https://stmv2.samcast.com.br/adao6116/adao6116/playlist.m3u8?ManoTV
 
 
 # 📺 Fechados
+#EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-201",Animal Planet 1
+http://fzcdn.vood.top:80/hls/2602_.m3u8
+
+#EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-201",Animal Planet 2
+https://cdn-1.nxplay.com.br/ANIMAL_PLANET_NX/index.m3u8
+
 #EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/Megapix_fundoclaro_midiaimpressa.png",MegaPix
 http://ggrrth.htvsat.info:8880/live/287994017b71/287994017b71/31278.ts
+
+#EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Logo_Lifetime_2020.svg",Lifetime
+https://cdn-3.nxplay.com.br/LIFE_TIME_TK/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://logodownload.org/wp-content/uploads/2017/08/canal-off-logo-1.png",Canal Off
+http://15.235.11.7:14075/OFF
+
+#EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/a-and-e-br.png",A&E 1
+http://czcdn.vood.top:80/hls/666_.m3u8
+
+#EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/a-and-e-br.png",A&E 2
+https://cdn-3.nxplay.com.br/AeE_BRASIL_TK/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hgtv-us.png",HGTV
+https://cdn-4.nxplay.com.br/HGTV_BR_NX/index.m3u8
+
+#EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/857px-History_Logo.svg.png",History
+http://gzcdn.vood.top:80/hls/2615_.m3u8
+
+#EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG",H2
+http://ezcdn.vood.top:80/hls/2632_.m3u8
+
+#EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/270px-History2_logo_%282022%29.svg.png",H2 History
+https://cdn-3.nxplay.com.br/HISTORY_2_TK/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png",Discovery World 1
+http://15.235.50.112:14112/DiscoveryWorld
+
+#EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png",Discovery World 2
+https://cdn-3.nxplay.com.br/DISCOVERY_WORLD_NX/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/512px-Science_Channel_logo.svg.png",Discovery Science
+https://cdn-3.nxplay.com.br/DISCOVERY_SCIENCE_NX/index.m3u8
 
 #EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/space-br.png",Space
 http://fzcdn.vood.top:80/hls/705_.m3u8
