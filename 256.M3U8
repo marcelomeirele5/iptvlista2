@@ -313,6 +313,9 @@ https://video01.logicahost.com.br/tvideonews/tvideonews/chunklist.m3u8
 
 
 # 📺 Variedades
+#EXTINF:-1 group-title="Canais | VARIEDADES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Multishow_logo_red_2012.svg",Multishow
+http://dzcdn.vood.top:80/hls/377243_.m3u8
+
 #EXTINF:-1 group-title="Canais | VARIEDADES" tvg-logo="https://imgur.com/AH3uBDj.png",Food Network HD
 https://cdn-1.nxplay.com.br/FOOD_NETWORK_NX/index.m3u8
 
@@ -735,8 +738,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae66b359b270007869f
 #EXTINF:-1 group-title="Canais | ESPORTES" tvg-logo="https://static.wixstatic.com/media/e7bfbc_94a941b045774114a4b2331dd6ed1d61~mv2.png/v1/fill/w_204,h_324,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/logo.png",Nosso Futebol
 http://fzcdn.vood.top:80/hls/301421_.m3u8
 
-#EXTINF:-1 group-title="Canais | ESPORTES" tvg-logo="https://i.ibb.co/gS64ZZb/cazetv-logo-2.png",Cazé TV
-https://cc-panvcqnzkgrdl.akamaized.net/Caze/Caze_TV_BR/Caze_TV.m3u8
+#EXTINF:-1 group-title="Canais | ESPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png",Premiere
+http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/9
 
 #EXTINF:-1 group-title="Canais | ESPORTES" tvg-logo="https://i.ibb.co/gS64ZZb/cazetv-logo-2.png",Cazé TV
 https://cc-panvcqnzkgrdl.akamaized.net/Caze/Caze_TV_BR/Caze_TV.m3u8
