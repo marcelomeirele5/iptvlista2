@@ -319,6 +319,9 @@ http://dzcdn.vood.top:80/hls/377243_.m3u8
 #EXTINF:-1 group-title="Canais | VARIEDADES" tvg-logo="https://imgur.com/AH3uBDj.png",Food Network HD
 https://cdn-1.nxplay.com.br/FOOD_NETWORK_NX/index.m3u8
 
+#EXTINF:-1 group-title="Canais | VARIEDADES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/2560px-InvestigationDiscoveryLogo2020.svg.png",Discovery ID
+https://cdn-5.nxplay.com.br/DISCOVERY_ID_NX/index.m3u8
+
 #EXTINF:-1 group-title="Canais | VARIEDADES" tvg-logo="https://i.imgur.com/7HTxrEq.png",Trace Sport Stars
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 
