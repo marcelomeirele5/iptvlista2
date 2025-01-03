@@ -171,6 +171,9 @@ http://fzcdn.vood.top:80/hls/2602_.m3u8
 #EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://i.ibb.co/X5FzDPW/2018-Animal-Planet-logo-svg.png",Animal Planet 2
 https://cdn-1.nxplay.com.br/ANIMAL_PLANET_NX/index.m3u8
 
+#EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://i.ibb.co/Qftdvpw/SBT-2024-svg.png",SBT +
+http://nunoborn.net:80/live/778890309/h731v7030e/390576.m3u8
+
 #EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/Megapix_fundoclaro_midiaimpressa.png",MegaPix
 http://ggrrth.htvsat.info:8880/live/287994017b71/287994017b71/31278.ts
 
@@ -317,6 +320,7 @@ https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
 #EXTINF:-1 group-title="Canais | NOTÍCIAS" tvg-logo="https://i.ibb.co/Mk4grXd/305978223-781816156275680-3936987076279353247-n.png",TV VIDEONEWS
 https://video01.logicahost.com.br/tvideonews/tvideonews/chunklist.m3u8
 
+
 # 📺 Variedades
 #EXTINF:-1 group-title="Canais | VARIEDADES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Multishow_logo_red_2012.svg",Multishow
 http://dzcdn.vood.top:80/hls/377243_.m3u8
@@ -364,6 +368,9 @@ http://svrhost.club//live/C96VW13E/DPIZ4JSVM/32.ts
 
 #EXTINF:-1 group-title="Canais | NOVELAS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/60/%2BSBT_2024.svg",SBT +Novelas
 http://dzcdn.vood.top:80/hls/390578_.m3u8
+
+#EXTINF:-1 group-title="Canais | NOVELAS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/60/%2BSBT_2024.svg",SBT +Novelas
+http://nunoborn.net:80/live/778890309/h731v7030e/390578.m3u8
 
 #EXTINF:-1 group-title="Canais | NOVELAS" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_09/large_logo.png.0048d7951561f8722cfa783f5cd76e02.png",Novelíssima
 https://cis-no-samsung.otteravision.com/cis/no/no_h265.m3u8
@@ -484,6 +491,9 @@ http://s1.1-cup.net:2095/live/solucao111hgfgh77hu78/xplus1111XXhjgyu87/43.m3u8
 # 📺 Séries 
 #EXTINF:-1 group-title="Canais | SÉRIES" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/6/60/%2BSBT_2024.svg/1200px-%2BSBT_2024.svg.png",SBT +Série
 http://dzcdn.vood.top:80/hls/390580_.m3u8
+
+#EXTINF:-1 group-title="Canais | SÉRIES" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/6/60/%2BSBT_2024.svg/1200px-%2BSBT_2024.svg.png",SBT +Série
+http://nunoborn.net:80/live/778890309/h731v7030e/390579.m3u8
 
 #EXTINF:-1 group-title="Canais | SÉRIES" tvg-logo="https://i.ibb.co/db9Kv5h/AAAABev-YI889-Fb-Lcem-Ggfb-XVZv-KNBHZk-QRu-Cy-MW-Ybx-NOw5-K3-Kw9l5h-Ezv-S8-JEKIzz-C6-W3tpo-Eri-Xt-J.png",Rookie Blue
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64ff2d8c6625510008c5a512/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
