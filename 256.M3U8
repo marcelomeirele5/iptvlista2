@@ -201,8 +201,11 @@ http://gzcdn.vood.top:80/hls/2615_.m3u8
 #EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG",H2
 https://cdn-3.nxplay.com.br/HISTORY_2_TK/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1200px-InvestigationDiscoveryLogo2020.svg.png",Investigação Discovery 
+#EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1200px-InvestigationDiscoveryLogo2020.svg.png",Discovery ID
 http://ezcdn.vood.top:80/hls/2632_.m3u8
+
+#EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/2560px-InvestigationDiscoveryLogo2020.svg.png",Discovery ID
+https://cdn-5.nxplay.com.br/DISCOVERY_ID_NX/index.m3u8
 
 #EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png",Discovery World 1
 http://15.235.50.112:14112/DiscoveryWorld
@@ -318,9 +321,6 @@ http://dzcdn.vood.top:80/hls/377243_.m3u8
 
 #EXTINF:-1 group-title="Canais | VARIEDADES" tvg-logo="https://imgur.com/AH3uBDj.png",Food Network HD
 https://cdn-1.nxplay.com.br/FOOD_NETWORK_NX/index.m3u8
-
-#EXTINF:-1 group-title="Canais | VARIEDADES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/2560px-InvestigationDiscoveryLogo2020.svg.png",Discovery ID
-https://cdn-5.nxplay.com.br/DISCOVERY_ID_NX/index.m3u8
 
 #EXTINF:-1 group-title="Canais | VARIEDADES" tvg-logo="https://i.imgur.com/7HTxrEq.png",Trace Sport Stars
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
