@@ -252,6 +252,14 @@ http://hzcdn.vood.top:80/hls/592_.m3u8
 #EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Amc_logo.svg/1024px-Amc_logo.svg.png",AMC
 http://dzcdn.vood.top/hls/669_.m3u8
 
+#EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Amc_logo.svg/1024px-Amc_logo.svg.png",AMC
+http://ezcdn.vood.top:80/hls/671_.m3u8
+
+#EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/Paramount_Network_2024.svg",Paramount Network
+http://dzcdn.vood.top/hls/695_.m3u8
+
+#EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png",Sony Channel
+https://cdn-1.nxplay.com.br/SONY_CHANNEL/index.m3u8
 
 
 # 📺 Notícias
@@ -413,6 +421,12 @@ http://ggrrth.htvsat.info:8880/live/287994017b71/287994017b71/16756.ts
 #EXTINF:-1 group-title="Canais | FILMES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/TelecineAction2021.png",Telecine Action
 http://ggrrth.htvsat.info:8880/live/287994017b71/287994017b71/31583.ts
 
+#EXTINF:-1 group-title="Canais | FILMES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png",Cinemax
+http://hzcdn.vood.top:80/hls/682_.m3u8
+
+#EXTINF:-1 group-title="Canais | FILMES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png",Cinemax
+http://s1.1-cup.net:2095/live/solucao111hgfgh77hu78/xplus1111XXhjgyu87/43.m3u8
+
 
 # 📺 Séries 
 #EXTINF:-1 group-title="Canais | SÉRIES" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/6/60/%2BSBT_2024.svg/1200px-%2BSBT_2024.svg.png",SBT +Série
@@ -451,72 +465,75 @@ https://bit.ly/429JSAQ?profile=63eb9fdda995710008991c54.m3u8
 #EXTINF:-1 group-title="Canais | SÉRIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/CSI_Miami_Logo.png",NCIS Miami
 https://bit.ly/3SkIV58?profile=63eb9c5351f5d000085e8d7e.m3u8
 
+#EXTINF:-1 group-title="Canais | SÉRIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png",TNT Séries
+http://czcdn.vood.top:80/hls/738_.m3u8
 
-# 📺 Animes, Desenhos e Geek
-#EXTINF:-1 group-title="Canais | ANIMES, DESENHOS E GEEK" tvg-logo="https://imgur.com/20h0JkN.png",Disney Channel HD
+
+# 📺 Animes e Desenhos
+#EXTINF:-1 group-title="Canais | ANIMES & DESENHOS" tvg-logo="https://imgur.com/20h0JkN.png",Disney Channel HD
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/3
 
-#EXTINF:-1 group-title="Canais | ANIMES, DESENHOS E GEEK" tvg-logo="https://playerv.srvif.com/app-multi-plataforma/logo-otaku.png",OTAKU SIGN TV
+#EXTINF:-1 group-title="Canais | ANIMES & DESENHOS" tvg-logo="https://playerv.srvif.com/app-multi-plataforma/logo-otaku.png",OTAKU SIGN TV
 https://stmv1.srvif.com/otaku/otaku/chunklist_w776677652.m3u8
 
-#EXTINF:-1 group-title="Canais | ANIMES, DESENHOS E GEEK" tvg-logo="https://i.ibb.co/bXFGN10/images.jpg",BS TV
+#EXTINF:-1 group-title="Canais | ANIMES & DESENHOS" tvg-logo="https://i.ibb.co/bXFGN10/images.jpg",BS TV
 https://br5093.streamingdevideo.com.br/bstv/bstv/chunklist_w1014792137.m3u8
 
-#EXTINF:-1 group-title="Canais | ANIMES, DESENHOS E GEEK" tvg-logo="https://i.ibb.co/LxYbkD1/Pluto-TV-Anime-476x476circle.png",Pluto TV Anime 1
+#EXTINF:-1 group-title="Canais | ANIMES & DESENHOS" tvg-logo="https://i.ibb.co/LxYbkD1/Pluto-TV-Anime-476x476circle.png",Pluto TV Anime 1
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604b79c558393100078faeef/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 group-title="Canais | ANIMES, DESENHOS E GEEK" tvg-logo="https://i.ibb.co/LxYbkD1/Pluto-TV-Anime-476x476circle.png",Pluto TV Anime 2
+#EXTINF:-1 group-title="Canais | ANIMES & DESENHOS" tvg-logo="https://i.ibb.co/LxYbkD1/Pluto-TV-Anime-476x476circle.png",Pluto TV Anime 2
 https://bit.ly/3qY2y4m?profile=608181d420fc8500075f612a.m3u8
 
-#EXTINF:-1 group-title="Canais | ANIMES, DESENHOS E GEEK" tvg-logo="https://images.pluto.tv/channels/624b1c8d4321e200073ee421/colorLogoPNG.png",One Piece
+#EXTINF:-1 group-title="Canais | ANIMES & DESENHOS" tvg-logo="https://images.pluto.tv/channels/624b1c8d4321e200073ee421/colorLogoPNG.png",One Piece
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/624b1c8d4321e200073ee421/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 group-title="Canais | ANIMES, DESENHOS E GEEK" tvg-logo="https://images.pluto.tv/channels/5f6df5a173d7340007c559f7/colorLogoPNG.png",Naruto
+#EXTINF:-1 group-title="Canais | ANIMES & DESENHOS" tvg-logo="https://images.pluto.tv/channels/5f6df5a173d7340007c559f7/colorLogoPNG.png",Naruto
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f6df5a173d7340007c559f7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 group-title="Canais | ANIMES, DESENHOS E GEEK" tvg-logo="https://i.ibb.co/YP3Zz3L/Naruto-logo-shippuuden.png",Naruto Shippuden
+#EXTINF:-1 group-title="Canais | ANIMES & DESENHOS" tvg-logo="https://i.ibb.co/YP3Zz3L/Naruto-logo-shippuuden.png",Naruto Shippuden
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64c92f965580090008084968/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 group-title="Canais | ANIMES, DESENHOS E GEEK" tvg-logo="https://i.ibb.co/26GQdqv/AAAABSfz-G7lfgu-Sw3-0bbt-E9g-GSQgs-TK6e-Xk5-Kn-Wk-Fyy-KCmd1-F2-Km-UYBbh-X1-Or-G1-Fgc-Pi-DZ8-Mzmc-EZp.png",Captain Tsubasa
+#EXTINF:-1 group-title="Canais | ANIMES & DESENHOS" tvg-logo="https://i.ibb.co/26GQdqv/AAAABSfz-G7lfgu-Sw3-0bbt-E9g-GSQgs-TK6e-Xk5-Kn-Wk-Fyy-KCmd1-F2-Km-UYBbh-X1-Or-G1-Fgc-Pi-DZ8-Mzmc-EZp.png",Captain Tsubasa
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/646663b01593940008990a57/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 group-title="Canais | ANIMES, DESENHOS E GEEK" tvg-logo="https://i.ibb.co/frzg6JB/b7ce55c3b03f69d589a771708d4f4b76.png",Beyblade
+#EXTINF:-1 group-title="Canais | ANIMES & DESENHOS" tvg-logo="https://i.ibb.co/frzg6JB/b7ce55c3b03f69d589a771708d4f4b76.png",Beyblade
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/633dc392e0282400071b0d39/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 group-title="Canais | ANIMES, DESENHOS E GEEK" tvg-logo="https://images.pluto.tv/channels/5ff609de50ab210008025c1b/colorLogoPNG.png",Tokusato
+#EXTINF:-1 group-title="Canais | ANIMES & DESENHOS" tvg-logo="https://images.pluto.tv/channels/5ff609de50ab210008025c1b/colorLogoPNG.png",Tokusato
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff609de50ab210008025c1b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=967d46f0-96bd-11eb-b493-ab25b5b88dc0&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e8619d5a-ac5a-4804-8d5e-84812ad7686b&userId=&serverSideAds=true
 
-#EXTINF:-1 group-title="Canais | ANIMES, DESENHOS E GEEK" tvg-logo="https://images.pluto.tv/channels/625464a945b6a200079257d1/solidLogoPNG.png",Death Note
+#EXTINF:-1 group-title="Canais | ANIMES & DESENHOS" tvg-logo="https://images.pluto.tv/channels/625464a945b6a200079257d1/solidLogoPNG.png",Death Note
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/625464a945b6a200079257d1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 group-title="Canais | ANIMES, DESENHOS E GEEK" tvg-logo="https://images.pluto.tv/channels/605cc4de7ff3c50007be0f65/colorLogoPNG.png",Pluto TV Geek e Tech
+#EXTINF:-1 group-title="Canais | ANIMES & DESENHOS" tvg-logo="https://images.pluto.tv/channels/605cc4de7ff3c50007be0f65/colorLogoPNG.png",Pluto TV Geek e Tech
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/605cc4de7ff3c50007be0f65/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 group-title="Canais | ANIMES, DESENHOS E GEEK" tvg-logo="https://logos-world.net/wp-content/uploads/2023/02/Ubisoft-Logo-2003.png",Pluto TV Gaming por Ubisoft
+#EXTINF:-1 group-title="Canais | ANIMES & DESENHOS" tvg-logo="https://logos-world.net/wp-content/uploads/2023/02/Ubisoft-Logo-2003.png",Pluto TV Gaming por Ubisoft
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64c815e8a1c6130008fef928livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 
-#EXTINF:-1 group-title="Canais | ANIMES, DESENHOS E GEEK" tvg-logo="https://i0.wp.com/otakudvd.com/wp-content/uploads/2021/02/otakulogo-e1625667755127.png",Otaku Sign TV
+#EXTINF:-1 group-title="Canais | ANIMES & DESENHOS" tvg-logo="https://i0.wp.com/otakudvd.com/wp-content/uploads/2021/02/otakulogo-e1625667755127.png",Otaku Sign TV
 https://stmv1.srvif.com/otaku/otaku/playlist.m3u8
 
-#EXTINF:-1 group-title="Canais | ANIMES, DESENHOS E GEEK" tvg-logo="https://s2.glbimg.com/TLD4BFyDnrTwCLQFjjuxB5AIcb8=/top/e.glbimg.com/og/ed/f/original/2020/12/07/loading1.jpg",Loading...TV HD
+#EXTINF:-1 group-title="Canais | ANIMES & DESENHOS" tvg-logo="https://s2.glbimg.com/TLD4BFyDnrTwCLQFjjuxB5AIcb8=/top/e.glbimg.com/og/ed/f/original/2020/12/07/loading1.jpg",Loading...TV HD
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 
-#EXTINF:-1 group-title="Canais | ANIMES, DESENHOS E GEEK" tvg-logo="https://s2.glbimg.com/TLD4BFyDnrTwCLQFjjuxB5AIcb8=/top/e.glbimg.com/og/ed/f/original/2020/12/07/loading1.jpg",Loading...TV HD*
+#EXTINF:-1 group-title="Canais | ANIMES & DESENHOS" tvg-logo="https://s2.glbimg.com/TLD4BFyDnrTwCLQFjjuxB5AIcb8=/top/e.glbimg.com/og/ed/f/original/2020/12/07/loading1.jpg",Loading...TV HD*
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6438
 
-#EXTINF:-1 group-title="Canais | ANIMES, DESENHOS E GEEK" tvg-logo="https://i.ibb.co/61dCYZg/Novo-Projeto.png",WORDING TV
+#EXTINF:-1 group-title="Canais | ANIMES & DESENHOS" tvg-logo="https://i.ibb.co/61dCYZg/Novo-Projeto.png",WORDING TV
 https://tv02.zas.media:1936/wordingtv/wordingtv/chunklist_w1264551258.m3u8
 
-#EXTINF:-1 group-title="Canais | ANIMES, DESENHOS E GEEK" tvg-logo="https://i.ibb.co/RDDF56k/hq720.jpg",Geekdot​
+#EXTINF:-1 group-title="Canais | ANIMES & DESENHOS" tvg-logo="https://i.ibb.co/RDDF56k/hq720.jpg",Geekdot​
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
 
-#EXTINF:-1 group-title="Canais | ANIMES, DESENHOS E GEEK" tvg-logo="https://i.ibb.co/r77nGDy/animetv.png",Animes TV
+#EXTINF:-1 group-title="Canais | ANIMES & DESENHOS" tvg-logo="https://i.ibb.co/r77nGDy/animetv.png",Animes TV
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8?ManoTV
 
-#EXTINF:-1 group-title="Canais | ANIMES, DESENHOS E GEEK" tvg-logo="https://i.ibb.co/QJ6f35h/HALLO-ANIME.png",Hallo Anime HD
+#EXTINF:-1 group-title="Canais | ANIMES & DESENHOS" tvg-logo="https://i.ibb.co/QJ6f35h/HALLO-ANIME.png",Hallo Anime HD
 https://cdn-1.nxplay.com.br/HALLOANIME/index.m3u8
 
-#EXTINF:-1 group-title="Canais | ANIMES, DESENHOS E GEEK" tvg-logo="https://imgur.com/BatygW5.png",Animax
+#EXTINF:-1 group-title="Canais | ANIMES & DESENHOS" tvg-logo="https://imgur.com/BatygW5.png",Animax
 https://stream.ichibantv.com:3547/hybrid/play.m3u8
 
 
