@@ -318,6 +318,18 @@ https://cc-21vbc0vo9kqq3.akamaized.net/playlist.m3u8
 #EXTINF:-1 group-title="Canais | NOVELAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/TVI_Fic%C3%A7%C3%A3o_%282017%29.png",TVi Ficção
 https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8?ManoTV
 
+#EXTINF:-1 group-title="Canais | NOVELAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png",TNT Novelas
+http://gzcdn.vood.top:80/hls/264555_.m3u8
+
+#EXTINF:-1 group-title="Canais | NOVELAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png",TNT Novelas
+http://svrhost.club//live/C96VW13E/DPIZ4JSVM/32.ts
+
+#EXTINF:-1 group-title="Canais | NOVELAS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/60/%2BSBT_2024.svg",SBT +Novelas
+http://dzcdn.vood.top:80/hls/390578_.m3u8
+
+#EXTINF:-1 group-title="Canais | NOVELAS" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_09/large_logo.png.0048d7951561f8722cfa783f5cd76e02.png",Novelíssima
+https://cis-no-samsung.otteravision.com/cis/no/no_h265.m3u8
+
 
 # 📺 Realitys
 #EXTINF:-1 group-title="Canais | REALITY" tvg-logo="https://images.pluto.tv/channels/61a528267e1b8b0007357920/colorLogoPNG.png",MTV Com o Ex
