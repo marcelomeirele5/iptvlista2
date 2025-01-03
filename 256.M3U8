@@ -811,3 +811,8 @@ http://dzcdn.vood.top:80/hls/118705_.m3u8
 
 #EXTINF:-1 group-title="Canais | ESPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/MavTV-2018.PNG",MAVTV Brasil
 https://cc-panvcqnzkgrdl.akamaized.net/Sports7/Sports7_BR/Sports7.m3u8
+
+#EXTINF:-1 group-title="Canais | ESPORTES" tvg-logo="https://i.ibb.co/p0f2G01/red-bull-tv-logo-png-transparent.png",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+## 👨🏻‍💻 Editor: Marcelo Meireles
