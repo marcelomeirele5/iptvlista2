@@ -336,6 +336,9 @@ https://bit.ly/3SOSEzT?5f32cf37c9ff2b00082adbc8.m3u8
 #EXTINF:-1 group-title="Canais | VARIEDADES" tvg-logo="https://cultne.tv/site/img/logo_cultne_menor.png",Cultne tv
 https://cc-wn1j3f2wnu5lr.akamaized.net/manifest.m3u8
 
+#EXTINF:-1 group-title="Canais | VARIEDADES" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/60/%2BSBT_2024.svg",SBT +Humor
+http://nunoborn.net:80/live/778890309/h731v7030e/390575.m3u8
+
 #EXTINF:-1 group-title="Canais | VARIEDADES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Telecine_Touch_%282021%29.png",Telecine Touch
 http://15.235.50.113:14012/TelecineTouch
 
