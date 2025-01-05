@@ -198,6 +198,9 @@ http://15.235.11.7:14075/OFF
 #EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/AXN_logo.svg/2560px-AXN_logo.svg.png",AXN
 https://cdn-3.nxplay.com.br/AXN_TK/tracks-v2a1/mono.m3u8
 
+#EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/AXN_logo.svg/2560px-AXN_logo.svg.png",AXN
+http://supersonictv.live:8080/329474/903964/84938
+
 #EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1920px-Star_Channel_2020.svg.png",Star Channel
 http://izcdn.vood.top:80/hls/598_.m3u8
 
@@ -333,7 +336,7 @@ https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/ind
 https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8?ManoTV
 
 #EXTINF:-1 group-title="Canais | NOTÍCIAS" tvg-logo="https://imgur.com/jCZzNjF.png",Band News
-https://cdn-1.nxplay.com.br/BAND_NEWS_TK/tracks-v1a1/mono.m3u8?ManoTV
+http://supersonictv.live:8080/329474/903964/84941
 
 #EXTINF:-1 group-title="Canais | NOTÍCIAS" tvg-logo="https://i.ibb.co/d4XsKS1/logo011light-png.png",011 News
 https://011news.akamaized.net/011news/011news/playlist.m3u8
@@ -648,6 +651,9 @@ https://stream.ichibantv.com:3547/hybrid/play.m3u8
 
 
 # 📺 Infantil
+#EXTINF:-1 group-title="Canais | INFANTIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png",Boomerang
+http://supersonictv.live:8080/329474/903964/84944
+
 #EXTINF:-1 group-title="Canais | INFANTIL" tvg-logo="https://images.pluto.tv/channels/62d969fd8451a30007f0fd94/colorLogoPNG.png",Cocoricó
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62d969fd8451a30007f0fd94/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
@@ -710,6 +716,9 @@ https://bit.ly/3rUCg15?profile=5f121460b73ac6000719fbaf.m3u8
 
 #EXTINF:-1 group-title="Canais | INFANTIL" tvg-logo="https://portalvoxhd.com.br/estacoes/webtv-328.png",RETRO CARTOON
 https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8?ManoTV
+
+#EXTINF:-1 group-title="Canais | INFANTIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1280px-Cartoon_Network_2010_logo.svg.png",Cartoon Network
+http://supersonictv.live:8080/329474/903964/84946
 
 #EXTINF:-1 group-title="Canais | INFANTIL" tvg-logo="https://i.ibb.co/XsJcFbr/channels4-profile.jpg",TVZYN
 https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5w3mfvzg9saoi/playlist.m3u8
@@ -820,12 +829,18 @@ http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/1
 
 #EXTINF:-1 group-title="Canais | ESPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Canal-combate-logo.png",Combate
 http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659702
+
+#EXTINF:-1 group-title="Canais | ESPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Canal-combate-logo.png",Combate
+http://supersonictv.live:8080/329474/903964/84953
  
 #EXTINF:-1 group-title="Canais | ESPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/BandSports2024.png",Band Sports
 http://fzcdn.vood.top:80/hls/235_.m3u8
 
 #EXTINF:-1 group-title="Canais | ESPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/BandSports2024.png",Band Sports
 https://dzcdn.vood.top/hls/232_.m3u8
+
+#EXTINF:-1 group-title="Canais | ESPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/BandSports2024.png",Band Sports
+http://supersonictv.live:8080/329474/903964/84942
 
 #EXTINF:-1 group-title="Canais | ESPORTES" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-8.png",Sport TV
 http://ezcdn.vood.top:80/hls/118881_.m3u8
