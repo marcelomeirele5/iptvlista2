@@ -4,6 +4,12 @@
 #EXTINF:-1 group-title="Canais | ABERTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png",Globo TV Santos
 http://15.235.15.230:14513/
 
+#EXTINF:-1 group-title="Canais | ABERTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png",Globo TV Liberal
+http://supersonictv.live:8080/329474/903964/85021
+
+#EXTINF:-1 group-title="Canais | ABERTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png",Globo Rede Amazônica
+http://supersonictv.live:8080/329474/903964/85010
+
 #EXTINF:-1 group-title="Canais | ABERTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png",Globo TV Curitiba 
 http://15.235.15.230:14487/
 
@@ -206,6 +212,9 @@ http://izcdn.vood.top:80/hls/598_.m3u8
 
 #EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1920px-Star_Channel_2020.svg.png",Star Channel
 http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659796
+
+#EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1920px-Star_Channel_2020.svg.png",Star Channel
+http://supersonictv.live:8080/329474/903964/84986
 
 #EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/a-and-e-br.png",A&E 1
 http://czcdn.vood.top:80/hls/666_.m3u8
