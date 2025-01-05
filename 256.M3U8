@@ -291,6 +291,12 @@ https://cdn-3.nxplay.com.br/DISCOVERY_SCIENCE_NX/index.m3u8
 #EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1200px-2015_Discovery_theater_HD_logo.svg.png",Discovery Theater
 https://cdn-5.nxplay.com.br/DISCOVERY_THEATER_NX/index.m3u8
 
+#EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1200px-2015_Discovery_theater_HD_logo.svg.png",Discovery Theater
+http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659711
+
+#EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1920px-Discovery_Turbo_logo.svg.png",Discovery Turbo
+http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659712
+
 #EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/space-br.png",Space
 http://fzcdn.vood.top:80/hls/705_.m3u8
 
@@ -413,7 +419,10 @@ https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/ind
 #EXTINF:-1 group-title="Canais | NOTÍCIAS" tvg-logo="https://i.ibb.co/K6Mz0GK/CNN-Circle-1000-X1000-1.png",CNN Brasil
 https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8?ManoTV
 
-#EXTINF:-1 group-title="Canais | NOTÍCIAS" tvg-logo="https://imgur.com/jCZzNjF.png",Band News
+#EXTINF:-1 group-title="Canais | NOTÍCIAS" tvg-logo="https://i.ibb.co/K6Mz0GK/CNN-Circle-1000-X1000-1.png",CNN Brasil
+http://defaultgen.com:3050/tanisharoz@gmail.com/3ZvHwXx3ch/659700
+
+#EXTINF:-1 group-title="Canais | NOTÍCIAS" tvg-logo="https://pt.wikipedia.org/wiki/BandNews_TV#/media/Ficheiro:BandNewsTV2024.svg",Band News
 http://supersonictv.live:8080/329474/903964/84941
 
 #EXTINF:-1 group-title="Canais | NOTÍCIAS" tvg-logo="https://i.ibb.co/d4XsKS1/logo011light-png.png",011 News
@@ -963,6 +972,9 @@ https://dzcdn.vood.top/hls/232_.m3u8
 
 #EXTINF:-1 group-title="Canais | ESPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/BandSports2024.png",Band Sports
 http://supersonictv.live:8080/329474/903964/84942
+
+#EXTINF:-1 group-title="Canais | ESPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/BandSports2024.png",Band Sports
+http://defaultgen.com:3050/tanisharoz@gmail.com/3ZvHwXx3ch/659684
 
 #EXTINF:-1 group-title="Canais | ESPORTES" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-8.png",Sport TV
 http://ezcdn.vood.top:80/hls/118881_.m3u8
