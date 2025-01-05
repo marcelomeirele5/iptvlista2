@@ -189,6 +189,9 @@ http://ggrrth.htvsat.info:8880/live/287994017b71/287994017b71/31278.ts
 #EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Logo_Lifetime_2020.svg",Lifetime
 https://cdn-3.nxplay.com.br/LIFE_TIME_TK/tracks-v2a1/mono.m3u8
 
+#EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://pt.m.wikipedia.org/wiki/Ficheiro:A%26E_Network_logo.svg",A&E
+http://supersonictv.live:8080/329474/903964/84935
+
 #EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://logodownload.org/wp-content/uploads/2017/08/canal-off-logo-1.png",Canal Off
 http://15.235.11.7:14075/OFF
 
