@@ -180,6 +180,9 @@ https://cdn-1.nxplay.com.br/ANIMAL_PLANET_NX/index.m3u8
 #EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://i.ibb.co/X5FzDPW/2018-Animal-Planet-logo-svg.png",Animal Planet 3
 http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659678
 
+#EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/PrimeBoxBrazil2019.png",Prime Box Brasil
+http://supersonictv.live:8080/329474/903964/85069
+
 #EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/60/%2BSBT_2024.svg",+SBT
 http://nunoborn.net:80/live/778890309/h731v7030e/390576.m3u8
 
@@ -188,6 +191,9 @@ http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659734
 
 #EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Logo_Universal_Channel_HD.svg",Universal HD
 http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659818
+
+#EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/909px-Logo_Studio_Universal.svg.png", Studio Universal
+http://supersonictv.live:8080/329474/903964/85096
 
 #EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/Megapix_fundoclaro_midiaimpressa.png",MegaPix
 http://ggrrth.htvsat.info:8880/live/287994017b71/287994017b71/31278.ts
@@ -260,6 +266,9 @@ https://cdn-5.nxplay.com.br/DISCOVERY_THEATER_NX/index.m3u8
 
 #EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/space-br.png",Space
 http://fzcdn.vood.top:80/hls/705_.m3u8
+
+#EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/space-br.png",Space
+http://supersonictv.live:8080/329474/903964/85092
 
 #EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://logo.iptveditor.com/universalpremiere.png",Universal Premiere
 https://dzcdn.vood.top/hls/742_.m3u8
@@ -356,6 +365,9 @@ http://supersonictv.live:8080/329474/903964/85059
 
 #EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png",Sony Channel
 https://cdn-1.nxplay.com.br/SONY_CHANNEL/index.m3u8
+
+#EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png",Sony Channel
+http://supersonictv.live:8080/329474/903964/85091
 
 #EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/1280px-National_Geographic_Channel.svg.png", National Geographic Channel
 http://supersonictv.live:8080/329474/903964/85052
@@ -905,17 +917,26 @@ http://ezcdn.vood.top:80/hls/118881_.m3u8
 #EXTINF:-1 group-title="Canais | ESPORTES" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-8.png",Sport TV
 https://super-cdn.link/sportv/index.m3u8
 
+#EXTINF:-1 group-title="Canais | ESPORTES" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-8.png",Sport TV
+http://supersonictv.live:8080/329474/903964/85095
+
 #EXTINF:-1 group-title="Canais | ESPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/SporTV2_2021.png",Sport TV 2
 https://super-cdn.link/sportv2/index.m3u8
 
 #EXTINF:-1 group-title="Canais | ESPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/SporTV2_2021.png",Sport TV 2
 http://izcdn.vood.top:80/hls/554_.m3u8
 
+#EXTINF:-1 group-title="Canais | ESPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/SporTV2_2021.png",Sport TV 2
+http://supersonictv.live:8080/329474/903964/85093
+
 #EXTINF:-1 group-title="Canais | ESPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/SporTV3_2021.png/1200px-SporTV3_2021.png",Sport TV 3
 https://super-cdn.link/sportv3/index.m3u8
 
 #EXTINF:-1 group-title="Canais | ESPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/SporTV3_2021.png/1200px-SporTV3_2021.png",Sport TV 3
 http://dzcdn.vood.top:80/hls/118705_.m3u8
+
+#EXTINF:-1 group-title="Canais | ESPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/SporTV3_2021.png/1200px-SporTV3_2021.png",Sport TV 3
+http://supersonictv.live:8080/329474/903964/85094
 
 #EXTINF:-1 group-title="Canais | ESPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/MavTV-2018.PNG",MAVTV Brasil
 https://cc-panvcqnzkgrdl.akamaized.net/Sports7/Sports7_BR/Sports7.m3u8
