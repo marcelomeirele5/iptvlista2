@@ -171,8 +171,17 @@ http://fzcdn.vood.top:80/hls/2602_.m3u8
 #EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://i.ibb.co/X5FzDPW/2018-Animal-Planet-logo-svg.png",Animal Planet 2
 https://cdn-1.nxplay.com.br/ANIMAL_PLANET_NX/index.m3u8
 
+#EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://i.ibb.co/X5FzDPW/2018-Animal-Planet-logo-svg.png",Animal Planet 3
+http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659678
+
 #EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/60/%2BSBT_2024.svg",+SBT
 http://nunoborn.net:80/live/778890309/h731v7030e/390576.m3u8
+
+#EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logotipo_da_GloboNews.png/1200px-Logotipo_da_GloboNews.png",Globo News
+http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659734
+
+#EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Logo_Universal_Channel_HD.svg",Universal HD
+http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659818
 
 #EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/Megapix_fundoclaro_midiaimpressa.png",MegaPix
 http://ggrrth.htvsat.info:8880/live/287994017b71/287994017b71/31278.ts
@@ -189,6 +198,9 @@ https://cdn-3.nxplay.com.br/AXN_TK/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1920px-Star_Channel_2020.svg.png",Star Channel
 http://izcdn.vood.top:80/hls/598_.m3u8
 
+#EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1920px-Star_Channel_2020.svg.png",Star Channel
+http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659796
+
 #EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/a-and-e-br.png",A&E 1
 http://czcdn.vood.top:80/hls/666_.m3u8
 
@@ -203,6 +215,9 @@ http://gzcdn.vood.top:80/hls/2615_.m3u8
 
 #EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG",H2
 https://cdn-3.nxplay.com.br/HISTORY_2_TK/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/ef/Logo_Discovery_HD.png",Discovery HD
+http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659706
 
 #EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1200px-InvestigationDiscoveryLogo2020.svg.png",Discovery ID
 http://ezcdn.vood.top:80/hls/2632_.m3u8
@@ -261,8 +276,17 @@ https://cc-7pakstinpyajo.akamaized.net/playlist1080p.m3u8
 #EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png",HBO
 http://ggrrth.htvsat.info:8880/live/287994017b71/287994017b71/31465.ts
 
+#EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png",HBO
+http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659738
+
+#EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Logohboplus2019.svg",HBO+
+http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659744
+
 #EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png",HBO2
 http://ggrrth.htvsat.info:8880/live/287994017b71/287994017b71/31460.ts
+
+#EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png",HBO2
+http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659745
 
 #EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1280px-HBO_Signature.svg.png",HBO Signature
 http://dzcdn.vood.top:80/hls/18767_.m3u8
@@ -290,6 +314,9 @@ http://ezcdn.vood.top:80/hls/671_.m3u8
 
 #EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/Paramount_Network_2024.svg",Paramount Network
 http://dzcdn.vood.top/hls/695_.m3u8
+
+#EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/Paramount_Network_2024.svg",Paramount Network
+http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659770
 
 #EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png",Sony Channel
 https://cdn-1.nxplay.com.br/SONY_CHANNEL/index.m3u8
@@ -356,6 +383,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6014761dfb91870008ea64
 # 📺 Católicos
 #EXTINF:-1 group-title="Canais | CATÓLICOS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png",TV Aparecida
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
+
+#EXTINF:-1 group-title="Canais | CATÓLICOS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png",TV Aparecida
+http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659813
 
 #EXTINF:-1 group-title="Canais | CATÓLICOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png",Rede Vida
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
@@ -784,6 +814,9 @@ https://cc-panvcqnzkgrdl.akamaized.net/Caze/Caze_TV_BR/Caze_TV.m3u8
 
 #EXTINF:-1 group-title="Canais | ESPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Canal-combate-logo.png",Combate
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/1
+
+#EXTINF:-1 group-title="Canais | ESPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Canal-combate-logo.png",Combate
+http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659702
  
 #EXTINF:-1 group-title="Canais | ESPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/BandSports2024.png",Band Sports
 http://fzcdn.vood.top:80/hls/235_.m3u8
