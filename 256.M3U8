@@ -1040,7 +1040,7 @@ http://23.227.140.75:3050/poolque75@gmail.com/XibxZji5g7/659774
 http://23.227.140.75:3050/poolque75@gmail.com/XibxZji5g7/659773
 
 # 📺 Box de Filmes
-#EXTINF:-1, tvg-logo="https://abre.ai/lLD1", group-title="BOX DE FILMES", Gladiador 2 (2024) ⭐6.7
+#EXTINF:-1 group-title="Box de Filmes" tvg-logo="https://symbl-world.akamaized.net/i/webp/46/26b5f502b9968038458360f58fa4fe.webp",Gladiador 2
 #EXTVLCOPT:http-referrer=https://gofilmes.me/play/w2.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
 https://abre.ai/lLDV
