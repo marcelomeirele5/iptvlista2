@@ -354,6 +354,9 @@ http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659770
 #EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png",Sony Channel
 https://cdn-1.nxplay.com.br/SONY_CHANNEL/index.m3u8
 
+#EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/1280px-National_Geographic_Channel.svg.png", National Geographic Channel
+http://supersonictv.live:8080/329474/903964/85052
+
 
 # 📺 Notícias
 #EXTINF:-1 group-title="Canais | NOTÍCIAS" tvg-logo="https://i.ibb.co/nwqTtkk/JP-NEWS-B-1000x1000-1.png",Jovem Pan NEWS
@@ -384,6 +387,9 @@ https://video01.logicahost.com.br/tvideonews/tvideonews/chunklist.m3u8
 # 📺 Variedades
 #EXTINF:-1 group-title="Canais | VARIEDADES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Multishow_logo_red_2012.svg",Multishow
 http://dzcdn.vood.top:80/hls/377243_.m3u8
+
+#EXTINF:-1 group-title="Canais | VARIEDADES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Multishow_logo_red_2012.svg",Multishow
+http://supersonictv.live:8080/329474/903964/85050
 
 #EXTINF:-1 group-title="Canais | VARIEDADES" tvg-logo="https://imgur.com/AH3uBDj.png",Food Network HD
 https://cdn-1.nxplay.com.br/FOOD_NETWORK_NX/index.m3u8
