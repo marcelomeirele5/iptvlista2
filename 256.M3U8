@@ -225,6 +225,12 @@ https://cdn-3.nxplay.com.br/AeE_BRASIL_TK/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hgtv-us.png",HGTV
 https://cdn-4.nxplay.com.br/HGTV_BR_NX/index.m3u8
 
+#EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hgtv-us.png",HGTV
+http://supersonictv.live:8080/329474/903964/85042
+
+#EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Mais_Globosat_logo_2016.svg/2560px-Mais_Globosat_logo_2016.svg.png",Mais Globosat
+http://supersonictv.live:8080/329474/903964/85046
+
 #EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/857px-History_Logo.svg.png",History
 http://gzcdn.vood.top:80/hls/2615_.m3u8
 
@@ -297,11 +303,17 @@ http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659738
 #EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Logohboplus2019.svg",HBO+
 http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659744
 
+#EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Logohboplus2019.svg",HBO+
+http://supersonictv.live:8080/329474/903964/85038
+
 #EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png",HBO2
 http://ggrrth.htvsat.info:8880/live/287994017b71/287994017b71/31460.ts
 
 #EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png",HBO2
 http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659745
+
+#EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png",HBO2
+http://supersonictv.live:8080/329474/903964/85034
 
 #EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1280px-HBO_Signature.svg.png",HBO Signature
 http://dzcdn.vood.top:80/hls/18767_.m3u8
@@ -315,8 +327,14 @@ http://hzcdn.vood.top:80/hls/18779_.m3u8
 #EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/768px-HBO_Family.svg.png",HBO Family
 http://czcdn.vood.top:80/hls/18759_.m3u8
 
+#EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/768px-HBO_Family.svg.png",HBO Family
+http://supersonictv.live:8080/329474/903964/85035
+
 #EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/HBO_Mundi.svg",HBO Mundi
 http://dzcdn.vood.top:80/hls/18771_.m3u8
+
+#EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/HBO_Mundi.svg",HBO Mundi
+http://supersonictv.live:8080/329474/903964/85037
 
 #EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/FX_Logo_2023.svg/1280px-FX_Logo_2023.svg.png",Fx
 http://hzcdn.vood.top:80/hls/592_.m3u8
@@ -745,6 +763,12 @@ https://stitcher.pluto.tv/stitch/hls/channel/63eba189c111bc0008ff59c5/master.m3u
 # 📺 Músicas
 #EXTINF:-1 group-title="Canais | MÚSICA" tvg-logo="https://i.ibb.co/MC6rYMG/MTV-Circle-476x476-Samsung-TV.png",MTV Biggest Pop
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6047fbdbbb776a0007e7f2ff/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=65aa3200-f9bd-11eb-8aa4-9fbe6c9efd24&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=93901adb-1cd6-4054-9f35-6f3746b30848&userId=&serverSideAds=true
+
+#EXTINF:-1 group-title="Canais | MÚSICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/MTV-logo-2021.png",MTV
+http://supersonictv.live:8080/329474/903964/85048
+
+#EXTINF:-1 group-title="Canais | MÚSICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/MTV-logo-2021.png",MTV
+http://supersonictv.live:8080/329474/903964/85049
 
 #EXTINF:-1 group-title="Canais | MÚSICA" tvg-logo="https://images.pluto.tv/channels/6047ff2e5e61cf000784e4da/featuredImage.jpg",MTV Spankin' New
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6047ff2e5e61cf000784e4da/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
