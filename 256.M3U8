@@ -480,6 +480,9 @@ http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659813
 #EXTINF:-1 group-title="Canais | CATÓLICOS" tvg-logo="https://img.cancaonova.com/cnimages/especiais/uploads/sites/11/2014/09/marca_cancao_nova_png_v140517.png",Canção Nova
 http://23.227.140.75:3050/poolque75@gmail.com/XibxZji5g7/659692
 
+#EXTINF:-1 group-title="Canais | CATÓLICOS" tvg-logo="https://img.cancaonova.com/cnimages/especiais/uploads/sites/11/2014/09/marca_cancao_nova_png_v140517.png",Canção Nova
+http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659692
+
 #EXTINF:-1 group-title="Canais | CATÓLICOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png",Rede Vida
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
 
@@ -861,6 +864,9 @@ https://stmv1.srvif.com/gmusic/gmusic/playlist.m3u8
 # 📺 Variedades
 #EXTINF:-1 group-title="Canais | VARIEDADES" tvg-logo="https://i.imgur.com/mcEd9qv.png",Play TV
 https://isaocorp.cloudecast.com/playtv/index.m3u8
+
+#EXTINF:-1 group-title="Canais | VARIEDADES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Claro_TV_wordmark.svg/2000px-Claro_TV_wordmark.svg.png",Claro TV+
+http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659699
 
 #EXTINF:-1 group-title="Canais | VARIEDADES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Logo_Manual_do_Mundo_%282021%29.png", Manual do Mundo
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/664df5221dc48600087592b1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
