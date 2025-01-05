@@ -70,6 +70,9 @@ http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8?ManoTV
 #EXTINF:-1 group-title="Canais | ABERTOS" tvg-logo="https://i.ibb.co/YpXtq6j/Cultura-logo-2013-svg.png",TV Cultura 2
 https://tv02.zas.media:1936/futurotv21/futurotv21/chunklist_w309642670.m3u8?ManoTV
 
+#EXTINF:-1 group-title="Canais | ABERTOS" tvg-logo="https://i.ibb.co/VThsZxZ/futura-logo.png",Futura
+http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659731
+
 #EXTINF:-1 group-title="Canais | ABERTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png",RedeTV Paraná
 https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
 
@@ -224,6 +227,9 @@ https://cdn-3.nxplay.com.br/AXN_TK/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/AXN_logo.svg/2560px-AXN_logo.svg.png",AXN
 http://supersonictv.live:8080/329474/903964/84938
+
+#EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/AXN_logo.svg/2560px-AXN_logo.svg.png",AXN
+http://defaultgen.com:3050/ClayFost912/rhutmwjVeC/659680
 
 #EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1920px-Star_Channel_2020.svg.png",Star Channel
 http://izcdn.vood.top:80/hls/598_.m3u8
