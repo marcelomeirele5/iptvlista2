@@ -1059,7 +1059,7 @@ https://abre.ai/lLf4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
 https://abre.ai/lLD2
 
-#EXTINF:-1 group-title="BOX DE FILMES" tvg-logo="",O Senhor dos Anéis - As Duas Torres
+#EXTINF:-1 group-title="BOX DE FILMES" tvg-logo="https://abre.ai/lLD3",O Senhor dos Anéis - As Duas Torres
 #EXTVLCOPT:http-referrer=https://gofilmes.me/play/w2.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
 https://abre.ai/lLD3
