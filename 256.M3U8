@@ -1,4 +1,7 @@
 #EXTM3U
+#EXT-X-VERSÃO:3
+#EXT-X-ALLOW-CACHE:NÃO
+#EXT-X-STREAM-INF:LARGURA-DE-BANDA-MÉDIA=3749000,RESOLUÇÃO=1280x720,TAXA-DE-QUADROS=35.000,CODECS="mp4a.40.2,avc1.42001e,avc1.64001f,vp9.0.0.1.255,ec-3,mp4a.40.5,opus,h265,h264,avc1.64001f,av1,vp8,ac3,divX,XviD"
 
 # 📺 Abertos
 #EXTINF:-1 group-title="Canais | ABERTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png",Globo TV Santos
