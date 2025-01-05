@@ -171,6 +171,12 @@ https://stmv2.samcast.com.br/adao6116/adao6116/playlist.m3u8?ManoTV
 
 
 # 📺 Fechados
+#EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png",Warner Channel
+http://supersonictv.live:8080/329474/903964/85122
+
+#EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://woohoo.com.br/wp-content/uploads/2023/07/woohoo-horizontal-3-2-1.png",Wohoo
+http://supersonictv.live:8080/329474/903964/85123
+
 #EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://i.ibb.co/X5FzDPW/2018-Animal-Planet-logo-svg.png",Animal Planet 1
 http://fzcdn.vood.top:80/hls/2602_.m3u8
 
@@ -194,6 +200,9 @@ http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659818
 
 #EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/909px-Logo_Studio_Universal.svg.png", Studio Universal
 http://supersonictv.live:8080/329474/903964/85096
+
+#EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SYFY.svg/1920px-SYFY.svg.png",SYFY 
+http://supersonictv.live:8080/329474/903964/85097
 
 #EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/Megapix_fundoclaro_midiaimpressa.png",MegaPix
 http://ggrrth.htvsat.info:8880/live/287994017b71/287994017b71/31278.ts
@@ -353,6 +362,9 @@ http://dzcdn.vood.top/hls/669_.m3u8
 
 #EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Amc_logo.svg/1024px-Amc_logo.svg.png",AMC
 http://ezcdn.vood.top:80/hls/671_.m3u8
+
+#EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Amc_logo.svg/1024px-Amc_logo.svg.png",AMC
+http://supersonictv.live:8080/329474/903964/85125
 
 #EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/Paramount_Network_2024.svg",Paramount Network
 http://dzcdn.vood.top/hls/695_.m3u8
@@ -943,5 +955,12 @@ https://cc-panvcqnzkgrdl.akamaized.net/Sports7/Sports7_BR/Sports7.m3u8
 
 #EXTINF:-1 group-title="Canais | ESPORTES" tvg-logo="https://i.ibb.co/p0f2G01/red-bull-tv-logo-png-transparent.png",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+#EXTINF:-1 group-title="Canais | ESPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Conmebol_text_logo_2021.svg/2560px-Conmebol_text_logo_2021.svg.png",Conmebol Libertadores 1
+http://supersonictv.live:8080/329474/903964/85126
+
+#EXTINF:-1 group-title="Canais | ESPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Conmebol_text_logo_2021.svg/2560px-Conmebol_text_logo_2021.svg.png",Conmebol Libertadores 2
+http://supersonictv.live:8080/329474/903964/85129
+
 
 ## 👨🏻‍💻 Editor: Marcelo Meireles
