@@ -255,6 +255,9 @@ http://supersonictv.live:8080/329474/903964/85046
 #EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/857px-History_Logo.svg.png",History
 http://gzcdn.vood.top:80/hls/2615_.m3u8
 
+#EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/857px-History_Logo.svg.png",History
+http://23.227.140.75:3050/poolque75@gmail.com/XibxZji5g7/659747
+
 #EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/270px-History2_logo_%282022%29.svg.png",History 2
 https://cdn-3.nxplay.com.br/HISTORY_2_TK/tracks-v2a1/mono.m3u8
 
@@ -341,6 +344,9 @@ http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659745
 
 #EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png",HBO2
 http://supersonictv.live:8080/329474/903964/85034
+
+#EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png",HBO2
+http://23.227.140.75:3050/poolque75@gmail.com/XibxZji5g7/659745
 
 #EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1280px-HBO_Signature.svg.png",HBO Signature
 http://dzcdn.vood.top:80/hls/18767_.m3u8
