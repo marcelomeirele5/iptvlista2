@@ -351,6 +351,9 @@ http://dzcdn.vood.top/hls/695_.m3u8
 #EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/Paramount_Network_2024.svg",Paramount Network
 http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659770
 
+#EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/Paramount_Network_2024.svg",Paramount Network
+http://supersonictv.live:8080/329474/903964/85059
+
 #EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png",Sony Channel
 https://cdn-1.nxplay.com.br/SONY_CHANNEL/index.m3u8
 
