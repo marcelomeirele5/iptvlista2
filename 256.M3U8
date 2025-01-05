@@ -82,7 +82,7 @@ https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
 #EXTINF:-1 group-title="Canais | ABERTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c1/Logotipo_da_TV_Ouro_Negro.png",TV OURO NEGRO
 https://StmV1.srvstm.com/diegodemenezes3156/diegodemenezes3156/playlist.m3u8
 
-#EXTINF:-1 group-title="Canais | ABERTOS" tvg-logo="https://i.ibb.co/x3w7tcZ/channels4-profile.jpg",WEB TV PROGRESSO
+#EXTINF:-1 group-title="Canais | ABERTOS" tvg-logo="https://i.ibb.co/x3w7tcZ/channels4-profile.jpg",TV Progresso
 https://5a0c3936c25c8.streamlock.net/oprogressotvstation/oprogressotvstation/chunklist_w73777379.m3u8
 
 #EXTINF:-1 group-title="Canais | ABERTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/81/Logotipo_da_TV_Vit%C3%B3ria.png",TV Vitória PE
@@ -91,10 +91,10 @@ https://5a0c3936c25c8.streamlock.net/tvvitoriape/tvvitoriape/playlist.m3u8
 #EXTINF:-1 group-title="Canais | ABERTOS" tvg-logo="https://static.wixstatic.com/media/e0e9ad_27a27d9c3fee4ba78b48644a8b7bcd36~mv2.png/v1/fit/w_2500,h_1330,al_c/e0e9ad_27a27d9c3fee4ba78b48644a8b7bcd36~mv2.png",Astral TV
 https://isaocorp.cloudecast.com/astraltv/index.m3u8
 
-#EXTINF:-1 group-title="Canais | ABERTOS" tvg-logo="https://i.ibb.co/s2pFJbb/Dimens-es-personalizadas-720x720-px.png",TV RIO MADEIRA
+#EXTINF:-1 group-title="Canais | ABERTOS" tvg-logo="https://i.ibb.co/s2pFJbb/Dimens-es-personalizadas-720x720-px.png",TV Rio Madeira
 https://stmv1.srvif.com/tvriomadeira/tvriomadeira/playlist.m3u8
 
-#EXTINF:-1 group-title="Canais | ABERTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/af/Logotipo_da_TV_Brasil_Oeste.png",TBO HD (Rede Brasil)
+#EXTINF:-1 group-title="Canais | ABERTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/af/Logotipo_da_TV_Brasil_Oeste.png",TBO Rede Brasil
 https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8?ManoTV
 
 #EXTINF:-1 group-title="Canais | ABERTOS" tvg-logo="https://static.wixstatic.com/media/9b4759_2455541c839e4dc6972ff9234d2ef2bf~mv2.png/v1/fill/w_560,h_250,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/9b4759_2455541c839e4dc6972ff9234d2ef2bf~mv2.png",Vivax TV
@@ -121,7 +121,7 @@ https://srv4.zcast.com.br/keynni2406/keynni2406/playlist.m3u8
 #EXTINF:-1 group-title="Canais | ABERTOS" tvg-logo="https://www.vrtchannel.tv.br/wp-content/uploads/2022/08/VRT_LOGO_PRETO-01.png",VRT Channel
 https://sistemavrt2023.vrtchannel.tv.br:3626/hybrid/play.m3u8
 
-#EXTINF:-1 group-title="Canais | ABERTOS" tvg-logo="https://www.40graustv.com.br/wp-content/uploads/2017/02/logo-circular.png",40 GRAUS TV
+#EXTINF:-1 group-title="Canais | ABERTOS" tvg-logo="https://www.40graustv.com.br/wp-content/uploads/2017/02/logo-circular.png",40 Graus TV
 https://acesso.ecast.site:3125/stream/play.m3u8
 
 #EXTINF:-1 group-title="Canais | ABERTOS" tvg-logo="https://i.ibb.co/v16TZ3V/channels4-profile.jpg",TV Alternativa
@@ -133,7 +133,7 @@ https://stmv1.paineltv.net/glnfilmes/glnfilmes/playlist.m3u8?ManoTV
 #EXTINF:-1 group-title="Canais | ABERTOS" tvg-logo="https://i.ibb.co/znKLkBn/421882875-896943995553424-9062127182674399688-n.jpg",CONECTV
 https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8?ManoTV
 
-#EXTINF:-1 group-title="Canais | ABERTOS" tvg-logo="https://i.imgur.com/9dGaIdY.png",TV BRASIL
+#EXTINF:-1 group-title="Canais | ABERTOS" tvg-logo="https://i.imgur.com/9dGaIdY.png",TV Brasil
 https://tvbrasil-stream.ebc.com.br/index.m3u8?ManoTV
 
 #EXTINF:-1 group-title="Canais | ABERTOS" tvg-logo="https://i.ibb.co/1Rr4zbG/unnamed.png",TV Grão Pará
@@ -198,7 +198,7 @@ http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659734
 #EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Logo_Universal_Channel_HD.svg",Universal HD
 http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659818
 
-#EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/909px-Logo_Studio_Universal.svg.png", Studio Universal
+#EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/909px-Logo_Studio_Universal.svg.png",Studio Universal
 http://supersonictv.live:8080/329474/903964/85096
 
 #EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SYFY.svg/1920px-SYFY.svg.png",SYFY 
@@ -288,8 +288,11 @@ https://bit.ly/3O1CTE0?profile=6014761dfb91870008ea6463.m3u8
 #EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://nxplay-images.comets.com.br/resize/6712cb9d27872_d201898ec6c98e84b8e83ab006390217.png",Hello +
 https://cdn-3.nxplay.com.br/halloplus/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://images.samsung.com/is/image/samsung/assets/br/tvs/smart-tv/channel-list/NEW_BRASIL_1-1_CIRCLE_1000x1000.png?$ORIGIN_PNG$",NEW BRASIL 
+#EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://images.samsung.com/is/image/samsung/assets/br/tvs/smart-tv/channel-list/NEW_BRASIL_1-1_CIRCLE_1000x1000.png?$ORIGIN_PNG$",New Brasil 
 https://cc-7pakstinpyajo.akamaized.net/playlist720lp.m3u8
+
+#EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://images.samsung.com/is/image/samsung/assets/br/tvs/smart-tv/channel-list/NEW_BRASIL_1-1_CIRCLE_1000x1000.png?$ORIGIN_PNG$",New Brasil 
+https://cc-7pakstinpyajo.akamaized.net/playlist1080p.m3u8
 
 #EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/6/60/%2BSBT_2024.svg/1200px-%2BSBT_2024.svg.png",SBT TV | TVZYN
 http://dzcdn.vood.top:80/hls/390582_.m3u8
@@ -308,9 +311,6 @@ https://video03.logicahost.com.br/tvkidmais01/tvkidmais01/playlist.m3u8
 
 #EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://i.ibb.co/wgsJd2G/lsi-Vz2qz-Txa-Mj-Fu-Z48b-C-40-Vs2v-B563ic5fnb.jpg",TV A Folha
 https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8
-
-#EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://images.samsung.com/is/image/samsung/assets/br/tvs/smart-tv/channel-list/NEW_BRASIL_1-1_CIRCLE_1000x1000.png?$ORIGIN_PNG$",NEW BRASIL 2
-https://cc-7pakstinpyajo.akamaized.net/playlist1080p.m3u8
 
 #EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png",HBO
 http://ggrrth.htvsat.info:8880/live/287994017b71/287994017b71/31465.ts
@@ -381,12 +381,12 @@ https://cdn-1.nxplay.com.br/SONY_CHANNEL/index.m3u8
 #EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png",Sony Channel
 http://supersonictv.live:8080/329474/903964/85091
 
-#EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/1280px-National_Geographic_Channel.svg.png", National Geographic Channel
+#EXTINF:-1 group-title="Canais | FECHADOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/1280px-National_Geographic_Channel.svg.png",National Geographic Channel
 http://supersonictv.live:8080/329474/903964/85052
 
 
 # 📺 Notícias
-#EXTINF:-1 group-title="Canais | NOTÍCIAS" tvg-logo="https://i.ibb.co/nwqTtkk/JP-NEWS-B-1000x1000-1.png",Jovem Pan NEWS
+#EXTINF:-1 group-title="Canais | NOTÍCIAS" tvg-logo="https://i.ibb.co/nwqTtkk/JP-NEWS-B-1000x1000-1.png",Jovem Pan News
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_10.m3u8
 
 #EXTINF:-1 group-title="Canais | NOTÍCIAS" tvg-logo="https://i.ibb.co/K6Mz0GK/CNN-Circle-1000-X1000-1.png",CNN Brasil
@@ -407,7 +407,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6102e04e9ab1db0007a980
 #EXTINF:-1 group-title="Canais | NOTÍCIAS" tvg-logo="https://i.ibb.co/7YDBpJC/Record-News.png",Pluto TV Record News
 https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
 
-#EXTINF:-1 group-title="Canais | NOTÍCIAS" tvg-logo="https://i.ibb.co/Mk4grXd/305978223-781816156275680-3936987076279353247-n.png",TV VIDEONEWS
+#EXTINF:-1 group-title="Canais | NOTÍCIAS" tvg-logo="https://i.ibb.co/Mk4grXd/305978223-781816156275680-3936987076279353247-n.png",TV VideoNews
 https://video01.logicahost.com.br/tvideonews/tvideonews/chunklist.m3u8
 
 
@@ -470,7 +470,7 @@ https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/playlist.m3u8
 
 
 # 📺 Novelas
-#EXTINF:-1 group-title="Canais | NOVELAS" tvg-logo="https://i.ibb.co/Vg7rnxw/BR-STVP-Novelando-Channel-Tile-476x476-Circle-1.png", Novelando
+#EXTINF:-1 group-title="Canais | NOVELAS" tvg-logo="https://i.ibb.co/Vg7rnxw/BR-STVP-Novelando-Channel-Tile-476x476-Circle-1.png",Novelando
 https://cc-21vbc0vo9kqq3.akamaized.net/playlist.m3u8
 
 #EXTINF:-1 group-title="Canais | NOVELAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/TVI_Fic%C3%A7%C3%A3o_%282017%29.png",TVi Ficção
@@ -505,7 +505,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/626c2a3502d84a0007cec8
 #EXTINF:-1 group-title="Canais | REALITY" tvg-logo="https://i.ibb.co/gw4gM7b/Master-Chef-Brasil-LOGO-B-1-1-Circle-1000x1000-1.png",MasterChef
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6077045b6031bd00078de127/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=65aaf550-f9bd-11eb-8aa4-9fbe6c9efd24&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=236636d2-5215-4c91-960b-a0fdf5d55119&userId=&serverSideAds=true
 
-#EXTINF:-1 group-title="Canais | REALITY" tvg-logo="https://logo.iptveditor.com/universalreality.png",Universal Reality 🇧🇷
+#EXTINF:-1 group-title="Canais | REALITY" tvg-logo="https://logo.iptveditor.com/universalreality.png",Universal Reality 
 http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:A8:F4:F9&stream=1689605&extension=ts
 
 
@@ -522,10 +522,10 @@ https://cdn-5.nxplay.com.br/europaplay/index.m3u8
 #EXTINF:-1 group-title="Canais | FILMES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png",Cine Canal
 http://hzcdn.vood.top:80/hls/601_.m3u8
 
-#EXTINF:-1 group-title="Canais | FILMES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/DC_Comics_logo.svg/2048px-DC_Comics_logo.svg.png",DC (Teste 1) 
+#EXTINF:-1 group-title="Canais | FILMES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/DCUniverse.svg/800px-DCUniverse.svg.png",DC Universe
 http://dzcdn.vood.top:80/hls/271592_.m3u8
 
-#EXTINF:-1 group-title="Canais | FILMES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/DC_Comics_logo.svg/2048px-DC_Comics_logo.svg.png",DC (Teste 2) 
+#EXTINF:-1 group-title="Canais | FILMES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/DCUniverse.svg/800px-DCUniverse.svg.png",DC Universe
 http://hzcdn.vood.top:80/hls/271593_.m3u8
 
 #EXTINF:-1 group-title="Canais | FILMES" tvg-logo="https://img1.static-ottera.com/prod/run/linear_channel/thumbnails/widescreen/960x540/runtime_br_action_bg.jpg",Runtime Ação 
@@ -694,13 +694,13 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64c815e8a1c6130008fef9
 #EXTINF:-1 group-title="Canais | ANIMES & DESENHOS" tvg-logo="https://i0.wp.com/otakudvd.com/wp-content/uploads/2021/02/otakulogo-e1625667755127.png",Otaku Sign TV
 https://stmv1.srvif.com/otaku/otaku/playlist.m3u8
 
-#EXTINF:-1 group-title="Canais | ANIMES & DESENHOS" tvg-logo="https://s2.glbimg.com/TLD4BFyDnrTwCLQFjjuxB5AIcb8=/top/e.glbimg.com/og/ed/f/original/2020/12/07/loading1.jpg",Loading...TV HD
+#EXTINF:-1 group-title="Canais | ANIMES & DESENHOS" tvg-logo="https://s2.glbimg.com/TLD4BFyDnrTwCLQFjjuxB5AIcb8=/top/e.glbimg.com/og/ed/f/original/2020/12/07/loading1.jpg",Loading TV
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 
-#EXTINF:-1 group-title="Canais | ANIMES & DESENHOS" tvg-logo="https://s2.glbimg.com/TLD4BFyDnrTwCLQFjjuxB5AIcb8=/top/e.glbimg.com/og/ed/f/original/2020/12/07/loading1.jpg",Loading...TV HD*
+#EXTINF:-1 group-title="Canais | ANIMES & DESENHOS" tvg-logo="https://s2.glbimg.com/TLD4BFyDnrTwCLQFjjuxB5AIcb8=/top/e.glbimg.com/og/ed/f/original/2020/12/07/loading1.jpg",Loading TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6438
 
-#EXTINF:-1 group-title="Canais | ANIMES & DESENHOS" tvg-logo="https://i.ibb.co/61dCYZg/Novo-Projeto.png",WORDING TV
+#EXTINF:-1 group-title="Canais | ANIMES & DESENHOS" tvg-logo="https://i.ibb.co/61dCYZg/Novo-Projeto.png",Wording TV
 https://tv02.zas.media:1936/wordingtv/wordingtv/chunklist_w1264551258.m3u8
 
 #EXTINF:-1 group-title="Canais | ANIMES & DESENHOS" tvg-logo="https://i.ibb.co/RDDF56k/hq720.jpg",Geekdot​
@@ -738,7 +738,7 @@ https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
 #EXTINF:-1 group-title="Canais | INFANTIL" tvg-logo="https://i.ibb.co/KyzRzLt/deb44ca1fb8c2d4d99b806e8fd92d43f.jpg",O Reino Infantil
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5c216df68f920007888315/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a5765170-77db-11eb-bfcd-e755c619a901&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b976462f-c9ea-4e8b-bbf6-df21635438ff&userId=&serverSideAds=true
 
-#EXTINF:-1 group-title="Canais | INFANTIL" tvg-logo="https://images.pluto.tv/channels/5f12151794c1800007a8ae63/colorLogoPNG.png",NICK CLÁSSICO
+#EXTINF:-1 group-title="Canais | INFANTIL" tvg-logo="https://images.pluto.tv/channels/5f12151794c1800007a8ae63/colorLogoPNG.png",Nick Clássico
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12141b146d760007934ea7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
 #EXTINF:-1 group-title="Canais | INFANTIL" tvg-logo="http://images.pluto.tv/channels/5f4fb4cf605ddf000748e16f/colorLogoPNG.png",Babyfirst
@@ -765,10 +765,10 @@ https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
 #EXTINF:-1 group-title="Canais | INFANTIL" tvg-logo="https://kuriakos-kids.com/wp-content/uploads/2024/11/KuriakosKids_curvas-removebg-preview.png",Kuriakos Kids
 https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Canais | INFANTIL" tvg-logo="https://teleclub.es/wp-content/uploads/2023/04/toongoggles_logo_light_1500x1000.png",Toon Googles | Brasil
+#EXTINF:-1 group-title="Canais | INFANTIL" tvg-logo="https://teleclub.es/wp-content/uploads/2023/04/toongoggles_logo_light_1500x1000.png",Toon Googles Brasil
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=274
 
-#EXTINF:-1 group-title="Canais | INFANTIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/The_Jetsons_%28television_series_logo%29.svg",Os Jetsons | Brasil
+#EXTINF:-1 group-title="Canais | INFANTIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/The_Jetsons_%28television_series_logo%29.svg",Os Jetsons Brasil
 https://stmv1.srvif.com/jetsontv/jetsontv/chunklist.m3u8?ManoTV
 
 #EXTINF:-1 group-title="Canais | INFANTIL" tvg-logo="https://tvratimbum.com.br/linha-do-tempo/logos/logo-2004.png",TV RA TIM BUM 
@@ -818,7 +818,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/604b91e0692f770007d
 #EXTINF:-1 group-title="Canais | MÚSICA" tvg-logo="https://images.pluto.tv/channels/604b99d633a72b00078e05ad/colorLogoPNG.png",Pluto TV Karaokê por Stingray
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604b99d633a72b00078e05adlivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 
-#EXTINF:-1 group-title="Canais | MÚSICA" tvg-logo="https://i.ibb.co/h9RR8R8/LOGO-TOP-TV-HD.png",TOP TV
+#EXTINF:-1 group-title="Canais | MÚSICA" tvg-logo="https://i.ibb.co/h9RR8R8/LOGO-TOP-TV-HD.png",Top TV
 https://isaocorp.cloudecast.com/toptv/index.m3u8?ManoTV
 
 #EXTINF:-1 group-title="Canais | MÚSICA" tvg-logo="https://i.ibb.co/RjM3Zt0/GVNEAb-AXIAE8c-MR.jpg",MaisUm
@@ -982,6 +982,3 @@ http://supersonictv.live:8080/329474/903964/85168
 
 #EXTINF:-1 group-title="Canais | ESPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Conmebol_text_logo_2021.svg/2560px-Conmebol_text_logo_2021.svg.png",Conmebol Libertadores 6
 http://supersonictv.live:8080/329474/903964/85170
-
-
-## 👨🏻‍💻 Editor: Marcelo Meireles
