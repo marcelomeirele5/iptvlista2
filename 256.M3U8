@@ -991,8 +991,14 @@ https://super-cdn.link/sportv/index.m3u8
 #EXTINF:-1 group-title="Canais | ESPORTES" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-8.png",Sport TV
 http://supersonictv.live:8080/329474/903964/85095
 
+#EXTINF:-1 group-title="Canais | ESPORTES" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-8.png",Sport TV
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/2443
+
 #EXTINF:-1 group-title="Canais | ESPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/SporTV2_2021.png",Sport TV 2
 https://super-cdn.link/sportv2/index.m3u8
+
+#EXTINF:-1 group-title="Canais | ESPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/SporTV2_2021.png",Sport TV 2
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/2445
 
 #EXTINF:-1 group-title="Canais | ESPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/SporTV2_2021.png",Sport TV 2
 http://izcdn.vood.top:80/hls/554_.m3u8
@@ -1008,6 +1014,9 @@ http://dzcdn.vood.top:80/hls/118705_.m3u8
 
 #EXTINF:-1 group-title="Canais | ESPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/SporTV3_2021.png/1200px-SporTV3_2021.png",Sport TV 3
 http://supersonictv.live:8080/329474/903964/85094
+
+#EXTINF:-1 group-title="Canais | ESPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/SporTV3_2021.png/1200px-SporTV3_2021.png",Sport TV 3
+http://mu3241218.oknirvana.club:8880/D12m4355/89333860/2444
 
 #EXTINF:-1 group-title="Canais | ESPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/MavTV-2018.PNG",MAVTV Brasil
 https://cc-panvcqnzkgrdl.akamaized.net/Sports7/Sports7_BR/Sports7.m3u8
