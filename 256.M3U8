@@ -952,6 +952,18 @@ http://supersonictv.live:8080/329474/903964/84980
 #EXTINF:-1 group-title="Canais | ESPORTES" tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/12/ESPN-Logo.png",ESPN
 http://supersonictv.live:8080/329474/903964/84981
 
+#EXTINF:-1 group-title="Canais | ESPORTES" tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/12/ESPN-Logo.png",ESPN
+http://zip.net/bxtJlR
+
+#EXTINF:-1 group-title="Canais | ESPORTES" tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/12/ESPN-Logo.png",ESPN
+http://5.79.68.138:8081/look/espn/playlist.m3u8
+
+#EXTINF:-1 group-title="Canais | ESPORTES" tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/12/ESPN-Logo.png",ESPN
+http://95.211.149.215:8081/look/espnbr/playlist.m3u8
+
+#EXTINF:-1 group-title="Canais | ESPORTES" tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/12/ESPN-Logo.png",ESPN
+http://5.79.68.138:8081/look/espn/playlist.m3u8
+
 #EXTINF:-1 group-title="Canais | ESPORTES" tvg-logo="https://static.wixstatic.com/media/e7bfbc_94a941b045774114a4b2331dd6ed1d61~mv2.png/v1/fill/w_204,h_324,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/logo.png",Nosso Futebol
 http://fzcdn.vood.top:80/hls/301421_.m3u8
 
